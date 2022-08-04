@@ -27,7 +27,7 @@ if(isset($_POST['send'])){
                 
                   <h2 class="footer-heading mb-4">Follow us </h2>
                   <ul class="list-unstyled">
-                    <div class="top-social ml-auto">
+                    <div class="top-social" style="margin-left: -19px;">
                       <a href="https://facebook.com/"><span class="icon-facebook text-teal"></span></a>
                       <a href="https://twitter.com/"><span class="icon-twitter text-success"></span></a>
                       <a href="https://instagram.com/"><span class="icon-instagram text-pink"></span></a>
@@ -65,7 +65,7 @@ if(isset($_POST['send'])){
             <div class="border-top pt-5">
               <p>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This Kinder Craze made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://tectignis.in/" target="_blank" >Tectignis.in</a>
+             &copy; <script>document.write(new Date().getFullYear());</script> All Rights Reserved | Kinder Craze School Design by <a href="https://tectignis.in/" target="_blank" >Tectignis It Solutions</a>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
             </div>

@@ -1,4 +1,6 @@
-
+<?php
+$page=substr($_SERVER['SCRIPT_NAME'],strrpos($_SERVER['SCRIPT_NAME'],"/")+1);
+?>
 <header class="site-navbar site-navbar-target" role="banner">
 
 <div class="container mb-3">
@@ -29,12 +31,12 @@
 
       <nav class="site-navigation text-left mr-auto d-none d-lg-block" role="navigation">
         <ul class="site-menu main-menu js-clone-nav mr-auto ">
-          <li><a href="index.php" class="nav-link">Home</a></li>
-          <li><a href="about.php" class="nav-link">About</a></li>
-          <li><a href="packages.php" class="nav-link">Packages</a></li>
-          <li><a href="gallery.php" class="nav-link">Gallery</a></li>
-          <li><a href="pricing.php" class="nav-link">Pricing</a></li>
-          <li class="active"><a href="contact.php" class="nav-link">Contact</a></li>
+          <li><a href="index.php" class="nav-link <?= $page == 'index.php' ? 'active':'' ?>">Home</a></li>
+          <li><a href="about.php" class="nav-link <?= $page == 'about.php' ? 'active':'' ?>">About</a></li>
+          <li><a href="packages.php" class="nav-link <?= $page == 'packages.php' ? 'active':'' ?>">Packages</a></li>
+          <li><a href="gallery.php" class="nav-link <?= $page == 'gallery.php' ? 'active':'' ?>">Gallery</a></li>
+          <li><a href="pricing.php" class="nav-link <?= $page == 'pricing.php' ? 'active':'' ?>">Pricing</a></li>
+          <li><a href="contact.php" class="nav-link <?= $page == 'contact.php' ? 'active':'' ?>">Contact</a></li>
         </ul>
       </nav>
 
