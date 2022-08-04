@@ -2,10 +2,10 @@
 include("config.php");
 
 if(isset($_POST['send'])){
-  $id=$_POST['id'];
+
   $email=$_POST['email'];
  
-  $sql=mysqli_query($conn,"INSERT INTO `newsletter_email`(`id`,`email`) VALUES ('$id','$email')");
+  $sql=mysqli_query($conn,"INSERT INTO `newsletter_email`(`email`) VALUES ('$email')");
   if($sql==1){
     echo '<script>alert("Thank You...!");</script>';
     header("location:index.php");
