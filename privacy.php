@@ -40,18 +40,66 @@
 
 
 
-      <?php
-     include("include/header.php");
-     ?>
+      <header class="site-navbar site-navbar-target" role="banner">
+
+        <div class="container mb-3">
+          <div class="d-flex align-items-center">
+            <div class="site-logo mr-auto">
+              <a href="index.html">Kinders Craze <span class="text-primary">.</span></a>
+            </div>
+            <div class="site-quick-contact d-none d-lg-flex ml-auto ">
+              <div class="d-flex site-info align-items-center mr-5">
+                <span class="block-icon mr-3"><span class="icon-map-marker text-yellow"></span></span>
+                <span>Aashiyana CHS Shop No 05,Sector 11, Plot No 29, <br> Kamothe, Navi Mumbai, Maharashtra 410206</span>
+              </div>
+              <div class="d-flex site-info align-items-center">
+                <span class="block-icon mr-3"><span class="icon-clock-o"></span></span>
+                <span>Sunday - Friday 8:00AM - 4:00PM <br> Saturday CLOSED</span>
+              </div>
+              
+            </div>
+          </div>
+        </div>
+
+
+        <div class="container">
+          <div class="menu-wrap d-flex align-items-center">
+            <span class="d-inline-block d-lg-none"><a href="#" class="text-black site-menu-toggle js-menu-toggle py-5"><span class="icon-menu h3 text-black"></span></a></span>
+
+              
+
+              <nav class="site-navigation text-left mr-auto d-none d-lg-block" role="navigation">
+                <ul class="site-menu main-menu js-clone-nav mr-auto ">
+                  <li><a href="index.html" class="nav-link">Home</a></li>
+                  <li><a href="about.html" class="nav-link">About</a></li>
+                  <li><a href="packages.html" class="nav-link">Packages</a></li>
+                  <li><a href="gallery.html" class="nav-link">Gallery</a></li>
+                  <li class="active"><a href="pricing.html" class="nav-link">Pricing</a></li>
+                  <li><a href="contact.html" class="nav-link">Contact</a></li>
+                </ul>
+              </nav>
+
+              <div class="top-social ml-auto">
+                <a href="https://facebook.com/"><span class="icon-facebook text-teal"></span></a>
+                <a href="https://twitter.com/"><span class="icon-twitter text-success"></span></a>
+                <a href="https://instagram.com/"><span class="icon-instagram text-pink"></span></a>
+              </div>
+          </div>
+        </div>
+
+       
+
+      </header>
+
     <div class="ftco-blocks-cover-1">
-      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/free.jpg')">
+      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/privacy.jpg')">
         <div class="container">
           <div class="row align-items-center ">
 
             <div class="col-md-5 mt-5 pt-5">
-              <span class="text-cursive h5 text-red">Pricing</span>
-              <h1 class="mb-3 font-weight-bold text-teal">Our Pricing</h1>
-              <p><a href="index.html" class="text-white">Home</a> <span class="mx-3">/</span> <strong>Pricing</strong></p>
+              <span class="text-cursive h5 text-red">Privacy</span>
+              <h1 class="mb-3 font-weight-bold text-teal">Privacy</h1>
+              <p><a href="index.html" class="text-white">Home</a> <span class="mx-3">/</span> <strong>Privacy</strong></p>
             </div>
             
           </div>
@@ -64,35 +112,59 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <span class="text-cursive h5 text-red d-block">Pricing Plan</span>
-            <h2 class="text-black">Our Pricing</h2>
-            <p>Playground pricing is ₹40.00  per student per month with no other fees, commitments, or contracts. Users can try Playground free for one full month with no feature restrictions.</p>
+            <span class="text-cursive h5 text-red d-block">Privacy</span>
+            <h2 class="text-black">Privacy</h2>
+            <p>Here is where we tell you how we use any data you provide to us. We don’t ask for much, but we want you to know how we use it. You can ask for your data to be deleted or exported at any time by emailing tectgnis.in and asking for it.
+
+            </p>
           </div>
+          
           <div class="col-md-4">
-            <div class="pricing teal">
-              <span class="price">
-                <span>$40</span>
-              </span>
-              <h3>Silver Pack</h3>
-              <ul class="ul-check list-unstyled teal">
-                <li>Principles of Outdoor Learning and Play </li>  
-                <li>Taking Maths Outdoors: Early Years</li>
-                <li>Dance Party.</li>
-              </ul>
+            <div class="pricing danger">
              
+          
+              <h3>Privacy</h3>
+              <ul class="ul-check list-unstyled danger">
+                <h4>How does the school decide if the educational software or apps it uses protect my kid's privacy?</h4>  
+                <li>Your kid's school should review the privacy policies of any software or device that requires your kid to log in with a screen name and password. You can ask for a copy of the product's privacy policy, or you can talk to the teacher or your principal to get assurances that they know what they're doing.</li>
+              <br>
+                <h5>What you should hear in the school's answer :</h5>
+              <li>Stored data is encrypted, password protected, and only available to certain administrators who need it for educational purposes. Ask who that person is.</li>
+              <li>More than one person (for example, a teacher, administrator, and an IT professional) reviews the companies' policies. Ask for their names in case you need them.</li>
+            <br>
+            <h4>Who can get access to the school's list of students and their contact information?</h4>
+            <li>Federal law limits who can get access to a school's directory of basic stuff like your kid's name, address, telephone number, and other general information.</li><br>
+            <br>
+            <h5>What you should hear in the school's answer:</h5>
+            <li>Schools comply with the Family Educational Rights and Privacy Act (FERPA) by notifying parents of any information that they collect and what directory information includes, as well as providing parents the choice to to opt out.</li>
+            <li>The method of notification is up to the school, so ideally they should use methods that will get your attention, such as a letter sent home that you have to sign. Ask how they notify parents: by email, a letter home, etc.?</li>
+            </ul>
+              
             </div>
           </div>
           <div class="col-md-4">
             <div class="pricing danger">
-              <span class="price">
-                <span>$80</span>
-              </span>
-              <h3>Golden Pack</h3>
+             
+          
+              <br>
               <ul class="ul-check list-unstyled danger">
-                <li>Map Skills and Orienteering.</li>  
-                <li>Map Skills and Orienteering.</li>
-                <li>Exploring .</li>
-              </ul>
+                <h4>What information does the school collect and how is it stored?</h4>  
+                <li>Schools need to offer a clear educational purpose for any personal information it asks for. (Social Security numbers are an example of information many schools have collected in the past, but not any longer because they couldn't justify the educational purpose of collecting that data.)</li><br>
+                <br>
+                <br>
+                <h5>What you should hear in the school's answer:</h5>
+                <li>The school asks for basic identification only -- for example, name, address, and phone number.</li>
+                <li>The school encrypts any information it receives and uses security procedures to protect any data in transit. That means no one can read the information without authorized security clearance and a password. Ask how they do this.</li>
+             <br>
+                <h4>When do I need to provide consent for my student to use software at school?</h4>
+                <li>Schools are allowed to provide consent on behalf of parents when they're using an app that collects information solely for educational purposes, such as an app that helps teachers take attendance. </li>
+               <br>
+                <h5>What you should hear in the school's answer:</h5>
+                <li>Schools should notify parents, for example as a list on their webpage, of all educational software that the school has consented to students using, what data it's collecting, how the data is used, and how the data is protected.</li>
+                <li>Schools should generally not ask for parental consent as a way to limit their own liability. When schools ask for consent, the school should have verified beforehand that the software is safe and that there is no safer or non-commerical alternative that could substitute for that software.</li>
+
+    
+            </ul>
               
             </div>
           </div>
@@ -209,7 +281,7 @@
               <div class="col-lg-4 ml-auto">
                 <h2 class="footer-heading mb-4">Navigation</h2>
                 <ul class="list-unstyled">
-                  <li><a href="about.php">About Us</a></li>
+                <li><a href="about.php">About Us</a></li>
                   <li><a href="pricing.php">Pricing</a></li>
                   <li><a href="terms-service.php">Terms of Service</a></li>
                   <li><a href="privacy.php">Privacy</a></li>

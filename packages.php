@@ -236,7 +236,7 @@
                   <li><a href="about.php">About Us</a></li>
                   <li><a href="pricing.php">Pricing</a></li>
                   <li><a href="terms-service.php">Terms of Service</a></li>
-                  <li><a href="#">Privacy</a></li>
+                  <li><a href="privacy.php">Privacy</a></li>
                   <li><a href="#">Contact Us</a></li>
                 </ul>
               </div>
