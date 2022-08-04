@@ -170,45 +170,7 @@
       </div>
     </div>
 
-    <div class="site-section">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-4">
-            <span class="text-cursive h5 text-red d-block">Pricing Plan</span>
-            <h2 class="text-black">Our Pricing</h2>
-            <p>Playground pricing is ₹40.00  per student per month with no other fees, commitments, or contracts. Users can try Playground free for one full month with no feature restrictions.</p>
-          </div>
-          <div class="col-md-4">
-            <div class="pricing teal">
-              <span class="price">
-                <span>$40</span>
-              </span>
-              <h3>Silver Pack</h3>
-              <ul class="ul-check list-unstyled teal">
-                <li>Principles of Outdoor Learning and Play </li>  
-                <li>Taking Maths Outdoors: Early Years</li>
-                <li>Dance Party.</li>
-              </ul>
-             
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="pricing danger">
-              <span class="price">
-                <span>$80</span>
-              </span>
-              <h3>Golden Pack</h3>
-              <ul class="ul-check list-unstyled danger">
-                <li>Map Skills and Orienteering.</li>  
-                <li>Map Skills and Orienteering.</li>
-                <li>Exploring .</li>
-              </ul>
-              
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    
     
     <div class="site-section bg-light">
       <div class="container">
