@@ -65,7 +65,7 @@ if(isset($_POST['send'])){
             <div class="border-top pt-5">
               <p>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-             &copy; <script>document.write(new Date().getFullYear());</script> All Rights Reserved | Kinder Craze School Design by <a href="https://tectignis.in/" target="_blank" >Tectignis It Solutions</a>
+             &copy; <script>document.write(new Date().getFullYear());</script> All Rights Reserved | Kinder Craze School | Designed by <a href="https://tectignis.in/" target="_blank" >Tectignis It Solutions</a>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
             </div>
