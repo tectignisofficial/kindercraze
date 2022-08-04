@@ -25,6 +25,9 @@
   </head>
 
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+  <?php
+    include("gs-modal.php");
+    ?>
 
     
     <div class="site-wrap" id="home-section">
@@ -293,7 +296,7 @@
         <div class="row justify-content-center">
           <div class="col-md-12 d-flex">
           <h2 class="text-white m-0">Bring Fun Life To Your Kids</h2>
-          <a href="#" class="btn btn-primary btn-custom-1 py-3 px-5 ml-auto">Get Started</a>
+          <button class="btn btn-primary btn-custom-1 py-3 px-5 ml-auto" data-toggle="modal" data-target="#getstarted">Get Started</button>
           </div>
         </div>
       </div>
