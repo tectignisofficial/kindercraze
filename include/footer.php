@@ -40,10 +40,10 @@ if(isset($_POST['send'])){
               <div class="col-lg-4 ml-auto">
                 <h2 class="footer-heading mb-4">Navigation</h2>
                 <ul class="list-unstyled">
-                  <li><a href="about.html">About Us</a></li>
-                  <li><a href="#">Testimonials</a></li>
-                  <li><a href="#">Terms of Service</a></li>
-                  <li><a href="#">Privacy</a></li>
+                <li><a href="about.php">About Us</a></li>
+                  <li><a href="pricing.php">Pricing</a></li>
+                  <li><a href="terms-service.php">Terms of Service</a></li>
+                  <li><a href="privacy.php">Privacy</a></li>
                   <li><a href="contact.php">Contact Us</a></li>
                 </ul>
               </div>
