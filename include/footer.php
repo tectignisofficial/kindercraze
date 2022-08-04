@@ -44,7 +44,7 @@ if(isset($_POST['send'])){
                   <li><a href="#">Testimonials</a></li>
                   <li><a href="#">Terms of Service</a></li>
                   <li><a href="#">Privacy</a></li>
-                  <li><a href="#">Contact Us</a></li>
+                  <li><a href="contact.php">Contact Us</a></li>
                 </ul>
               </div>
               
