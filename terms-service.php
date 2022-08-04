@@ -92,7 +92,7 @@
       </header>
 
     <div class="ftco-blocks-cover-1">
-      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/free.jpg')">
+      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/kids.jpg')">
         <div class="container">
           <div class="row align-items-center ">
 
@@ -133,7 +133,7 @@
             <div class="pricing danger">
              
           
-              <h3>Golden Pack</h3>
+              <h3>Services</h3>
               <ul class="ul-check list-unstyled danger">
                 <li>we offer LKG Class Education Services, Play Group Education Service, UKG Class Education Services, Nursery Class Education Services, Pre Nursery Class Education Services and Junior Kg Class Education Service from India.</li>  
                 
