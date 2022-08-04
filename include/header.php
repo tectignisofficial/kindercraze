@@ -9,7 +9,7 @@
     <div class="site-quick-contact d-none d-lg-flex ml-auto ">
       <div class="d-flex site-info align-items-center mr-5">
         <span class="block-icon mr-3"><span class="icon-map-marker text-yellow"></span></span>
-        <span>34 Street Name, City Name Here, <br> United States</span>
+        <span> Aashiyana CHS Shop No 05, Sector 11, Plot No 29, Kamothe,  <br> Navi Mumbai, Maharashtra 410206</span>
       </div>
       <div class="d-flex site-info align-items-center">
         <span class="block-icon mr-3"><span class="icon-clock-o"></span></span>
