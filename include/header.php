@@ -39,9 +39,9 @@
       </nav>
 
       <div class="top-social ml-auto">
-        <a href="#"><span class="icon-facebook text-teal"></span></a>
-        <a href="#"><span class="icon-twitter text-success"></span></a>
-        <a href="#"><span class="icon-linkedin text-yellow"></span></a>
+        <a href="https://www.facebook.com/"><span class="icon-facebook text-teal"></span></a>
+        <a href="https://www.twitter.com/"><span class="icon-twitter text-success"></span></a>
+        <a href="https://www.instagram.com/"><span class="icon-instagram text-pink"></span></a>
       </div>
   </div>
 </div>
