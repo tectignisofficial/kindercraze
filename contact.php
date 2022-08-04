@@ -1,3 +1,7 @@
+<?php
+include("config.php");
+?>
+
 <!doctype html>
 <html lang="en">
 
@@ -72,27 +76,27 @@
             <form action="#" method="post">
               <div class="form-group row">
                 <div class="col-md-6 mb-4 mb-lg-0">
-                  <input type="text" class="form-control" placeholder="First name">
+                  <input type="text" class="form-control" name="fname" id="fname" placeholder="First name" required>
                 </div>
                 <div class="col-md-6">
-                  <input type="text" class="form-control" placeholder="Last name">
+                  <input type="text" class="form-control"name="lname" id="lname" placeholder="Last name" required>
                 </div>
               </div>
 
               <div class="form-group row">
                 <div class="col-md-12">
-                  <input type="text" class="form-control" placeholder="Email address">
+                  <input type="text" class="form-control" name="email" id="email" placeholder="Email address" required>
                 </div>
               </div>
 
               <div class="form-group row">
                 <div class="col-md-12">
-                  <textarea name="" id="" class="form-control" placeholder="Write your message." cols="30" rows="10"></textarea>
+                  <textarea name="message" id="message" class="form-control" placeholder="Write your message." cols="30" rows="10" required></textarea>
                 </div>
               </div>
               <div class="form-group row">
                 <div class="col-md-6 mr-auto">
-                  <input type="submit" class="btn btn-block btn-primary text-white py-3 px-5" value="Send Message">
+                  <input type="submit" name="submit" id="submit" class="btn btn-block btn-primary text-white py-3 px-5" value="Send Message">
                 </div>
               </div>
             </form>
@@ -185,10 +189,28 @@
     <script src="js/jquery.easing.1.3.js"></script>
     <script src="js/bootstrap-datepicker.min.js"></script>
     <script src="js/aos.js"></script>
-
     <script src="js/main.js"></script>
-
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    
   </body>
+
+  <?php
+if(isset($_POST['submit'])){
+  $first_name=$_POST['fname'];
+  $last_name=$_POST['lname'];
+  $email=$_POST['email'];
+  $message=$_POST['message'];
+ 
+  $sql=mysqli_query($conn,"INSERT INTO `contact`(`first_name`, `last_name`, `email`, `message`) VALUES ('$first_name','$last_name','$email','$message')");
+  if($sql==1){
+    echo '<script>alert("Successfully submitted");</script>';
+    header("location:contact.php");
+}else {
+    echo '<script>alert("oops...somthing went wrong");</script>';
+}
+        
+}
+?>
 
 </html>
 

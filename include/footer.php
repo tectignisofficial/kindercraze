@@ -1,4 +1,17 @@
+<?php
+include("config.php");
 
+if(isset($_POST['send'])){
+  $id=$_POST['id'];
+  $email=$_POST['email'];
+ 
+  $sql=mysqli_query($conn,"INSERT INTO `newsletter_email`(`id`,`email`) VALUES ('$id','$email')");
+  if($sql==1){
+    echo '<script>alert("Thank You...!");</script>';
+    header("location:index.php");
+}
+}
+?>
  <footer class="site-footer">
       <div class="container">
         <div class="row">
@@ -31,15 +44,15 @@
                   <li><a href="#">Testimonials</a></li>
                   <li><a href="#">Terms of Service</a></li>
                   <li><a href="#">Privacy</a></li>
-                  <li><a href="#">Contact Us</a></li>
+                  <li><a href="contact.php">Contact Us</a></li>
                 </ul>
               </div>
               
               <div class="col-lg-5">
                  <h2 class="footer-heading mb-4">Newsletter</h2>
-                    <form action="#" class="d-flex" class="subscribe">
-                      <input type="text" class="form-control mr-2" placeholder="Email">
-                      <input type="submit" value="Send" class="btn btn-primary">
+                    <form method="POST" class="d-flex" class="subscribe">
+                      <input type="text" class="form-control mr-2" name="email" id="email" placeholder="Email" required>
+                      <input type="submit" name="send" id="send" value="Send" class="btn btn-primary">
                     </form>
               </div>
               
