@@ -37,59 +37,10 @@
         </div>
         <div class="site-mobile-menu-body"></div>
       </div>
-
-
-
-      <header class="site-navbar site-navbar-target" role="banner">
-
-        <div class="container mb-3">
-          <div class="d-flex align-items-center">
-            <div class="site-logo mr-auto">
-              <a href="index.html">Kinder craze<span class="text-primary">.</span></a>
-            </div>
-            <div class="site-quick-contact d-none d-lg-flex ml-auto ">
-              <div class="d-flex site-info align-items-center mr-5">
-                <span class="block-icon mr-3"><span class="icon-map-marker text-yellow"></span></span>
-                <span>34 Street Name, City Name Here, <br> United States</span>
-              </div>
-              <div class="d-flex site-info align-items-center">
-                <span class="block-icon mr-3"><span class="icon-clock-o"></span></span>
-                <span>Sunday - Friday 8:00AM - 4:00PM <br> Saturday CLOSED</span>
-              </div>
-              
-            </div>
-          </div>
-        </div>
-
-
-        <div class="container">
-          <div class="menu-wrap d-flex align-items-center">
-            <span class="d-inline-block d-lg-none"><a href="#" class="text-black site-menu-toggle js-menu-toggle py-5"><span class="icon-menu h3 text-black"></span></a></span>
-
-              
-
-              <nav class="site-navigation text-left mr-auto d-none d-lg-block" role="navigation">
-                <ul class="site-menu main-menu js-clone-nav mr-auto ">
-                  <li><a href="index.html" class="nav-link">Home</a></li>
-                  <li><a href="about.html" class="nav-link">About</a></li>
-                  <li><a href="packages.html" class="nav-link">Packages</a></li>
-                  <li><a href="gallery.html" class="nav-link">Gallery</a></li>
-                  <li><a href="pricing.html" class="nav-link">Pricing</a></li>
-                  <li class="active"><a href="contact.html" class="nav-link">Contact</a></li>
-                </ul>
-              </nav>
-
-              <div class="top-social ml-auto">
-                <a href="#"><span class="icon-facebook text-teal"></span></a>
-                <a href="#"><span class="icon-twitter text-success"></span></a>
-                <a href="#"><span class="icon-linkedin text-yellow"></span></a>
-              </div>
-          </div>
-        </div>
-
-       
-
-      </header>
+      
+      <?php
+      include("include/header.php");
+      ?>    
 
     <div class="ftco-blocks-cover-1">
       <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/Hero_33.jpg')">
@@ -99,7 +50,7 @@
             <div class="col-md-5 mt-5 pt-5">
               <span class="text-cursive h5 text-red">Contact</span>
               <h1 class="mb-3 font-weight-bold text-teal">Get In Touch</h1>
-              <p><a href="index.html" class="text-white">Home</a> <span class="mx-3">/</span> <strong>Contact</strong></p>
+              <p><a href="index.php" class="text-white">Home</a> <span class="mx-3">/</span> <strong>Contact</strong></p>
             </div>
             
           </div>
@@ -124,7 +75,7 @@
                   <input type="text" class="form-control" placeholder="First name">
                 </div>
                 <div class="col-md-6">
-                  <input type="text" class="form-control" placeholder="First name">
+                  <input type="text" class="form-control" placeholder="Last name">
                 </div>
               </div>
 
@@ -215,73 +166,10 @@
         </div>
         
       </div>
-    </div>
-
-    
-
-    <footer class="site-footer">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-4">
-            <h2 class="footer-heading mb-4">About Us</h2>
-                <p class="mb-5">Give your child the best possible beginning to lifelong learning, where even you are trained to contribute through active participation. </p>
-
-                <!-- <h2 class="footer-heading mb-4">Newsletter</h2>
-                <form action="#" class="d-flex" class="subscribe">
-                  <input type="text" class="form-control mr-3" placeholder="Email">
-                  <input type="submit" value="Send" class="btn btn-primary">
-                </form> -->
-                
-                  <h2 class="footer-heading mb-4">Follow us </h2>
-                  <ul class="list-unstyled">
-                    <div class="top-social ml-auto">
-                      <a href="https://facebook.com/"><span class="icon-facebook text-teal"></span></a>
-                      <a href="https://twitter.com/"><span class="icon-twitter text-success"></span></a>
-                      <a href="https://instagram.com/"><span class="icon-instagram text-pink"></span></a>
-                    </div>
-                  </ul>
-                
-          </div>
-          <div class="col-lg-8 ml-auto">
-            <div class="row">
-              <div class="col-lg-4 ml-auto">
-                <h2 class="footer-heading mb-4">Navigation</h2>
-                <ul class="list-unstyled">
-                  <li><a href="about.html">About Us</a></li>
-                  <li><a href="#">Testimonials</a></li>
-                  <li><a href="#">Terms of Service</a></li>
-                  <li><a href="#">Privacy</a></li>
-                  <li><a href="#">Contact Us</a></li>
-                </ul>
-              </div>
-              
-              <div class="col-lg-5">
-                 <h2 class="footer-heading mb-4">Newsletter</h2>
-                    <form action="#" class="d-flex" class="subscribe">
-                      <input type="text" class="form-control mr-2" placeholder="Email">
-                      <input type="submit" value="Send" class="btn btn-primary">
-                    </form>
-              </div>
-              
-              
-            </div>
-          </div>
-        </div>
-        <div class="row pt-5 mt-5 text-center">
-          <div class="col-md-12">
-            <div class="border-top pt-5">
-              <p>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This Kinder Craze made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://tectignis.in/" target="_blank" >Tectignis.in</a>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            </p>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </footer>
-
+    </div> 
+    <?php      
+    include("include/footer.php");
+    ?>
     </div>
 
     <script src="js/jquery-3.3.1.min.js"></script>
