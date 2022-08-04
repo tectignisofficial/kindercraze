@@ -1,5 +1,21 @@
 <?php
 include("config.php");
+
+if(isset($_POST['create'])){
+  $first_name=$_POST['fname'];
+  $last_name=$_POST['lname'];
+  $email=$_POST['email'];
+  $mobile_number=$_POST['number'];
+ 
+  $sql=mysqli_query($conn,"INSERT INTO `get_started`(`first_name`, `last_name`, `email`, `mobile_number`) VALUES ('$first_name','$last_name','$email','$mobile_number')");
+  if($sql==1){
+    echo '<script>alert("Successfully submitted");</script>';
+}else {
+    echo '<script>alert("oops...somthing went wrong");</script>';
+}
+        
+}
+
 ?>
 
 <!doctype html>
@@ -21,14 +37,14 @@ aria-hidden="true">
                 <div class="col-6">
                         <div class="form-group">
                             <label for="inputName">First Name</label>
-                            <input type="text" name="fname" class="form-control" id="inputfname"
+                            <input type="text" name="fname" class="form-control" id="fname"
                                 placeholder="Enter Firm Name">
                         </div>
                     </div>
                     <div class="col-6">
                         <div class="form-group">
                             <label for="inputName">Last Name</label>
-                            <input type="text" name="name" class="form-control" id="inputName"
+                            <input type="text" name="lname" class="form-control" id="lname"
                                 placeholder="Enter Name">
                         </div>
                     </div>
@@ -43,7 +59,7 @@ aria-hidden="true">
                     <div class="col-6">
                         <div class="form-group">
                             <label for="inputPass">Mobile Number</label>
-                            <input type="text" minlength="10" maxlength="10" class="form-control" name="number" id="number" placeholder="Mobile Number" required>
+                            <input type="text" minlength="10" maxlength="10" class="form-control" name="number" id="number" placeholder="Enter Number" required>
                         </div>
                     </div>
                                      
@@ -51,7 +67,7 @@ aria-hidden="true">
                 </div>
                 <div class="modal-footer">
             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-            <button type="submit" name="submit" class="btn btn-primary">Create</button>
+            <button type="submit" name="create" id="create" class="btn btn-primary">Create</button>
         </div>
             </form>
         </div>
