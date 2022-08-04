@@ -51,7 +51,7 @@
             <div class="col-md-5 mt-5 pt-5">
               <span class="text-cursive h5 text-red">Gallery</span>
               <h1 class="mb-3 font-weight-bold text-teal">Gallery Of Kids</h1>
-              <p><a href="index.html" class="text-white">Home</a> <span class="mx-3">/</span> <strong>Gallery</strong></p>
+              <p><a href="index.php" class="text-white">Home</a> <span class="mx-3">/</span> <strong>Gallery</strong></p>
             </div>
             
           </div>
