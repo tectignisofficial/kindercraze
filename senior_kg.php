@@ -69,7 +69,7 @@
         <div class="container">
             <div class="default-section-title default-section-title-middle pt-5" style="text-align:center;" >
                 
-                <h2>SENIOR-KG</h2>
+                <h3>SENIOR-KG</h3>
             </div>
             <div class="section-content">
                             <div class="row justify-content-center">

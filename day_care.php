@@ -55,8 +55,8 @@
           <div class="row align-items-center ">
 
             <div class="col-md-5 mt-5 pt-5">
-              <h1 class="mb-3 font-weight-bold text-teal">JUNIOR-KG</h1>
-              <p><a href="index.php" class="text-white">Home</a> <span class="mx-2">/</span> <strong>Class</strong> <span class="mx-2">/</span> <strong>Junior-kg</strong></p>
+              <h1 class="mb-3 font-weight-bold text-teal">DAY-CARE</h1>
+              <p><a href="index.php" class="text-white">Home</a> <span class="mx-2">/</span> <strong>Class</strong> <span class="mx-2">/</span> <strong>Day-Care</strong></p>
             </div>
             
           </div>
@@ -69,28 +69,36 @@
         <div class="container">
             <div class="default-section-title default-section-title-middle pt-5" style="text-align:center;" >
                 
-                <h2>JUNIOR-KG</h2>
+                <h3>DAY-CARE</h3>
             </div>
             <div class="section-content">
                             <div class="row justify-content-center">
                             <div class="col-8 pt-4">
-                        <label>Children in WOW Kids Kinder craze-schools LKG program already have solid foundations necessary for their potentials to start blossoming. They are exposed to activities that ensure all round education. Their vocabulary is worked on everyday to ensure that their speaking skills are enhanced. Reading and writing of letters of the alphabet with phonics become very essential at this stage. Our Maths curriculum is divided into counting, identification of figures, size and measurements and shapes colors and patterns. Added to these are numbering, counting, sorting, classifying and recognizing and following patterns. Included in their curriculum are, science, creative arts, music etc. All these are taught in a relaxed and conducive atmosphere.</label>
-                </div>
+                        <label>WOW KIDS Day Care Center is a home away from home where a child is engaged meaningfully, developing skills with joy, while enhancing different abilities in children. WOW Kids day Care Center offers personal care and attention to children between 2 year  to 12 years.</label>
+                        <label>The center’s aesthetically designed environment replicates the warmth, comfort and security of home. Child friendly equipment, safety and security norms make the place world class. A walk inside the area reveals a child proofed, infant and toddler room and foam padded flooring, to avoid any accidents.</label>
+                        <label>A play house, a puppet stand, a small library, age appropriate toys are also at hand.
+                            Well trained child care supervisors, ensure that each child’s needs are well attended to. Health takes precedence, with weekly sanitization of sleeping areas, toys and regularly handled equipment.</label>
+                        <label>At few centres Food is prepared and stored in hygienic conditions under the supervision of our in-house care takers. The menu is shared with the parents every week.</label>
+                        <label>Our scientifically and thoughtfully planned day helps in the overall development of the child.</label>
+                        <label>A safe haven for children of ages 2 to 10 Years, this homely amenity is specifically for a child’s well-being and their guardian’s mental peace.</label>
+                    </div>
             </div>
                         <div class="row justify-content-center pt-3">
                         <div class="col-8">
-              <h4>LEARNING SCHOOLS</h4>
-            <li>  Fine Motor Activities</li>
-            <li>  Writing , Reading , Math Skills</li>
-            <li>  Science and Exploratory Activities</li>
+              <h4>Working Parents</h4>
+            <li>  Meeting the needs of parents by offering playful, safe companionship to the children</li>
+            
             </div>
             </div>
                          <div class="row justify-content-center pt-3">
                          <div class="col-8">
-                         <h4>PERCEPTUAL MOTOR PROGRAMME</h4>
-              <li>    Locomotor and Non-Locomotor Activities</li>
-              <li>    Creative Movements</li>
-              <li>    Manipulative Activities</li>
+                         <h4>After School Hours</h4>
+              <li>    Offering karate</li>
+              <li>    zumba</li>
+              <li>    music</li>
+              <li>   drama</li>
+              <li>   arts & homework café to keep children engaged</li>
+              <li></li>
               </div>
             </div>
 
@@ -105,52 +113,31 @@
 
             <div class="row justify-content-center pt-3">
                          <div class="col-8">
-                         <h4>MATH SKILLS</h4>
-              <li>   Pre - Math Skills</li>
-              <li>   Numbers</li>
-              <li>  Data handling</li>
+                         <h4>Vacation Time</h4>
+              <li>  Stimulating children’s physical & intellectual abilities</li>
              
               </div>
             </div>
 
             <div class="row justify-content-center pt-3">
                          <div class="col-8">
-                         <h4>LANGUAGE SKILLS</h4>
-              <li>   Reading Skills</li>
-              <li>   Writing Skills</li>
+                         <h4>Talent Development</h4>
+              <li> Offering opportunities to exhibit & polish creativity, promote hidden talents</li>
+             
 
               </div>
             </div>
 
             <div class="row justify-content-center pt-3">
                          <div class="col-8">
-                         <h4>CREATIVITY</h4>
-              <li>  Introduction to Colours: Black, White, Brown and Pink</li>
-              <li>  Construction</li>
-              <li>   Clay Modelling</li>
-              <li>   Art and Craft</li>
+                         <h4>Socializing Time</h4>
+              <li>  Children remain healthily engaged with friends</li>
+             
               </div>
             </div>
 
-            <div class="row justify-content-center pt-3">
-                         <div class="col-8">
-                         <h4>TECHNOLOGY (DIGITAL LITERACY)</h4>
-              <li>  Animated Content Based Stories and Songs/Rhymes</li>
-              <li>  Digital Flashcards</li>
-              <li>   Digital Interactive Games</li>
-            </div>
-            </div>
-
-            <div class="row justify-content-center pt-3">
-                         <div class="col-8">
-                         <h4>ENRICHMENT PROGRAMME</h4>
-                         
-              <li>  Stories come Alive….dramatics, story yoga, puppetry, musical plays, and make-believe situations. Role Play, dramatics in Early Years is an important part of child development; it nurtures imagination, builds confidence, creativity communication, physical development and problem solving.</li>
-              <li>  Fun and Fitness - Indoor and Outdoor Fitness Programme</li>
-              <li>  Full STEAM Ahead : Little Scientists at Work</li>
-              <li>Full STEAM Ahead : Little Scientists at Work STEAM is much more than just introducing concepts of Science, Technology, Engineering, Art and Math. It is a proven philosophy of advanced learning which helps young learners integrate knowledge across disciplines, encouraging them to think in a more connected and holistic way.</li>
-            </div>
-            </div>
+            
+            
                          
                    
             </div>
