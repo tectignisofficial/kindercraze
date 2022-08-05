@@ -39,9 +39,9 @@ $page=substr($_SERVER['SCRIPT_NAME'],strrpos($_SERVER['SCRIPT_NAME'],"/")+1);
                 <ul class="dropdown-menu" role="listbox">
                    <li class="text-center"><a href="play_group.php" role="option">Play Group</a></li>
                    <li class="text-center"><a href="nursery.php" role="option">Nursery</a></li>
-                   <li class="text-center"><a href="junior_kg.php" role="option">Junior K.G.</a></li>                  
-                   <li class="text-center"><a href="senior_kg.php" role="option">Senior K.G.</a></li>                 
-                   <li class="text-center"><a href="#day_care.php" role="option">Day Care</a></li>
+                   <li class="text-center"><a href="junior_kg.php" role="option">Junior KG.</a></li>                  
+                   <li class="text-center"><a href="senior_kg.php" role="option">Senior KG.</a></li>                 
+                   <li class="text-center"><a href="#day_care.php" role="option">Daycare services</a></li>
                 </ul>
              </li>
           <li><a href="about.php" class="nav-link <?= $page == 'about.php' ? 'active':'' ?>">About</a></li>
