@@ -47,7 +47,7 @@ include("config.php");
       ?>    
 
     <div class="ftco-blocks-cover-1">
-      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/Hero_33.webp')">
+      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/ezgif.com-gif-maker.webp')">
         <div class="container">
           <div class="row align-items-center ">
 
@@ -84,11 +84,8 @@ include("config.php");
               </div>
 
               <div class="form-group row">
-                <div class="col-md-6 mb-4 mb-lg-0">
-                  <input type="text" class="form-control" name="email" id="email" placeholder="Email" required>
-                </div>
-                <div class="col-md-6">
-                <input type="text" minlength="10" maxlength="10" class="form-control" name="number" id="number" placeholder="Mobile Number" required>
+                <div class="col-md-12">
+                  <input type="text" class="form-control" name="email" id="email" placeholder="Email address" required>
                 </div>
               </div>
 
@@ -136,7 +133,7 @@ include("config.php");
               <div class="owl-carousel nonloop-block-13">
                 <div class="testimonial-3 d-flex">
                   <div class="vcard-wrap mr-5">
-                    <img src="images/person_1.webp" alt="Image" class="vcard img-fluid">
+                    <img src="images/ezgif.com-gif-maker (13).webp" alt="Image" class="vcard img-fluid">
                   </div>
                   <div class="text">
                     <h3>Vedant Naidu</h3>
@@ -147,7 +144,7 @@ include("config.php");
 
                 <div class="testimonial-3 d-flex">
                   <div class="vcard-wrap mr-5">
-                    <img src="images/person_3.webp" alt="Image" class="vcard img-fluid">
+                    <img src="images/ezgif.com-gif-maker (15).webp" alt="Image" class="vcard img-fluid">
                   </div>
                   <div class="text">
                     <h3>Monika Gore</h3>
@@ -158,7 +155,7 @@ include("config.php");
 
                 <div class="testimonial-3 d-flex">
                   <div class="vcard-wrap mr-5">
-                    <img src="images/person_2.webp" alt="Image" class="vcard img-fluid">
+                    <img src="images/ezgif.com-gif-maker (14).webp" alt="Image" class="vcard img-fluid">
                   </div>
                   <div class="text">
                     <h3>Dipali Kale</h3>
@@ -215,10 +212,9 @@ if(isset($_POST['submit'])){
   $first_name=$_POST['fname'];
   $last_name=$_POST['lname'];
   $email=$_POST['email'];
-  $mobile_number=$_POST['number'];
   $message=$_POST['message'];
  
-  $sql=mysqli_query($conn,"INSERT INTO `contact`(`first_name`, `last_name`, `email`, `mobile_number`, `message`) VALUES ('$first_name','$last_name','$email','$mobile_number','$message')");
+  $sql=mysqli_query($conn,"INSERT INTO `contact`(`first_name`, `last_name`, `email`, `message`) VALUES ('$first_name','$last_name','$email','$message')");
   if($sql==1){
     echo '<script>alert("Successfully submitted");</script>';
     header("location:contact.php");

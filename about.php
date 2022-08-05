@@ -64,7 +64,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6">
-            <img src="images/skech.webp" alt="Image" class="img-fluid">
+            <img src="images/ezgif.com-gif-maker (28).webp" alt="Image" class="img-fluid">
           </div>
           <div class="col-md-5 ml-auto pl-md-5">
             <span class="text-cursive h5 text-red">About Us</span>
@@ -90,7 +90,7 @@
           <div class="col-lg-4 col-md-6 mb-5">
             <div class="post-entry-1 h-100 person-1 teal">
               
-                <img src="images/person_5.webp" alt="Image"
+                <img src="images/ezgif.com-gif-maker (17).webp" alt="Image"
                  class="img-fluid">
             
               <div class="post-entry-1-contents">
@@ -103,7 +103,7 @@
           <div class="col-lg-4 col-md-6 mb-5">
             <div class="post-entry-1 h-100 person-1 yellow">
               
-                <img src="images/person_2.webp" alt="Image"
+                <img src="images/ezgif.com-gif-maker (14).webp" alt="Image"
                  class="img-fluid">
             
               <div class="post-entry-1-contents">
@@ -117,7 +117,7 @@
           <div class="col-lg-4 col-md-6 mb-5">
             <div class="post-entry-1 h-100 person-1 red">
               
-                <img src="images/person_3.webp" alt="Image"
+                <img src="images/ezgif.com-gif-maker (15).webp" alt="Image"
                  class="img-fluid">
             
               <div class="post-entry-1-contents">
@@ -131,7 +131,7 @@
           <div class="col-lg-4 col-md-6 mb-5">
             <div class="post-entry-1 h-100 person-1 green">
               
-                <img src="images/prsn.webp" alt="Image"
+                <img src="images/ezgif.com-gif-maker (26).webp" alt="Image"
                  class="img-fluid">
             
               <div class="post-entry-1-contents">
@@ -159,7 +159,7 @@
           <div class="col-lg-4 col-md-6 mb-5">
             <div class="post-entry-1 h-100 person-1 red">
               
-                <img src="images/prsn2.webp" alt="Image"
+                <img src="images/ezgif.com-gif-maker (27).webp" alt="Image"
                  class="img-fluid">
             
               <div class="post-entry-1-contents">

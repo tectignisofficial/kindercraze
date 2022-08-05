@@ -42,59 +42,10 @@
      include("include/header.php");
      ?>
 
-      <header class="site-navbar site-navbar-target" role="banner">
-
-        <div class="container mb-3">
-          <div class="d-flex align-items-center">
-            <div class="site-logo mr-auto">
-              <a href="index.html">Kinders Craze <span class="text-primary">.</span></a>
-            </div>
-            <div class="site-quick-contact d-none d-lg-flex ml-auto ">
-              <div class="d-flex site-info align-items-center mr-5">
-                <span class="block-icon mr-3"><span class="icon-map-marker text-yellow"></span></span>
-                <span>Aashiyana CHS Shop No 05,Sector 11, Plot No 29, <br> Kamothe, Navi Mumbai, Maharashtra 410206</span>
-              </div>
-              <div class="d-flex site-info align-items-center">
-                <span class="block-icon mr-3"><span class="icon-clock-o"></span></span>
-                <span>Sunday - Friday 8:00AM - 4:00PM <br> Saturday CLOSED</span>
-              </div>
-              
-            </div>
-          </div>
-        </div>
-
-
-        <div class="container">
-          <div class="menu-wrap d-flex align-items-center">
-            <span class="d-inline-block d-lg-none"><a href="#" class="text-black site-menu-toggle js-menu-toggle py-5"><span class="icon-menu h3 text-black"></span></a></span>
-
-              
-
-              <nav class="site-navigation text-left mr-auto d-none d-lg-block" role="navigation">
-                <ul class="site-menu main-menu js-clone-nav mr-auto ">
-                  <li><a href="index.html" class="nav-link">Home</a></li>
-                  <li><a href="about.html" class="nav-link">About</a></li>
-                  <li><a href="packages.html" class="nav-link">Packages</a></li>
-                  <li><a href="gallery.html" class="nav-link">Gallery</a></li>
-                  <li class="active"><a href="pricing.html" class="nav-link">Pricing</a></li>
-                  <li><a href="contact.html" class="nav-link">Contact</a></li>
-                </ul>
-              </nav>
-
-              <div class="top-social ml-auto">
-                <a href="https://facebook.com/"><span class="icon-facebook text-teal"></span></a>
-                <a href="https://twitter.com/"><span class="icon-twitter text-success"></span></a>
-                <a href="https://instagram.com/"><span class="icon-instagram text-pink"></span></a>
-              </div>
-          </div>
-        </div>
-
-       
-
-      </header>
+      
 
     <div class="ftco-blocks-cover-1">
-      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/privacy.jpg')">
+      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/ezgif.com-gif-maker (25).webp')">
         <div class="container">
           <div class="row align-items-center ">
 
@@ -190,7 +141,7 @@
               <div class="owl-carousel nonloop-block-13">
                 <div class="testimonial-3 d-flex">
                   <div class="vcard-wrap mr-5">
-                    <img src="images\vedant.jpg" alt="Image" class="vcard img-fluid">
+                    <img src="images\ezgif.com-gif-maker (13).webp" alt="Image" class="vcard img-fluid">
                   </div>
                   <div class="text">
                     <h3>Vedant Naidu</h3>
@@ -201,7 +152,7 @@
 
                 <div class="testimonial-3 d-flex">
                   <div class="vcard-wrap mr-5">
-                    <img src="images\craze.jpg" alt="Image" class="vcard img-fluid">
+                    <img src="ezgif.com-gif-maker (14).webp" alt="Image" class="vcard img-fluid">
                   </div>
                   <div class="text">
                     <h3>Monika Gore</h3>
@@ -212,7 +163,7 @@
 
                 <div class="testimonial-3 d-flex">
                   <div class="vcard-wrap mr-5">
-                    <img src="images\logo22.jpg" alt="Image" class="vcard img-fluid">
+                    <img src="images\ezgif.com-gif-maker (15).webp" alt="Image" class="vcard img-fluid">
                   </div>
                   <div class="text">
                     <h3>Dipali Kale</h3>

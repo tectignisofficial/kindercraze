@@ -57,7 +57,7 @@
               
             </div>
             <div class="col-md-6 ml-auto align-self-end">
-              <img src="images\girl.jpg"  alt="Image" class="img-fluid">
+              <img src="images\girl.webp"  alt="Image" class="img-fluid">
               
             </div>
           </div>
@@ -104,7 +104,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6 mb-5 mb-md-0">
-            <img src="images\skech.jpg" alt="Image" class="img-fluid">
+            <img src="images\ezgif.com-gif-maker (28).webp" alt="Image" class="img-fluid">
           </div>
           <div class="col-md-5 ml-auto pl-md-5">
             <span class="text-cursive h5 text-red">About Us</span>
@@ -134,7 +134,7 @@
               <div class="owl-carousel nonloop-block-13">
                 <div class="testimonial-3 d-flex">
                   <div class="vcard-wrap mr-5">
-                    <img src="images\person_1.webp" alt="Image" class="vcard img-fluid">
+                    <img src="images\ezgif.com-gif-maker (13).webp" alt="Image" class="vcard img-fluid">
                   </div>
                   <div class="text">
                     <h3>Vedant Naidu</h3>
@@ -145,7 +145,7 @@
 
                 <div class="testimonial-3 d-flex">
                   <div class="vcard-wrap mr-5">
-                    <img src="images\craze.jpg" alt="Image" class="vcard img-fluid">
+                    <img src="images\ezgif.com-gif-maker (14).webp" alt="Image" class="vcard img-fluid">
                   </div>
                   <div class="text">
                     <h3>Monika Gore</h3>
@@ -156,7 +156,7 @@
 
                 <div class="testimonial-3 d-flex">
                   <div class="vcard-wrap mr-5">
-                    <img src="images\logo22.jpg" alt="Image" class="vcard img-fluid">
+                    <img src="images\ezgif.com-gif-maker (15).webp" alt="Image" class="vcard img-fluid">
                   </div>
                   <div class="text">
                     <h3>Dipali Kale</h3>

@@ -50,7 +50,7 @@
      ?>
 
          
-<div class="site-section-cover overlay"  style="background-image: url('images/cute.webp')">
+<div class="site-section-cover overlay"  style="background-image: url('images/ezgif.com-gif-maker (32).webp')">
         <div class="container">
           <div class="row align-items-center ">
 
@@ -69,7 +69,7 @@
         <div class="container">
             <div class="default-section-title default-section-title-middle pt-5" style="text-align:center;" >
                 
-                <h3>DAY-CARE</h3>
+                <h2>DAY-CARE</h2>
             </div>
             <div class="section-content">
                             <div class="row justify-content-center">
