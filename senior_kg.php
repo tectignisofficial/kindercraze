@@ -55,8 +55,8 @@
           <div class="row align-items-center ">
 
             <div class="col-md-5 mt-5 pt-5">
-              <h1 class="mb-3 font-weight-bold text-teal">Play Group</h1>
-              <p><a href="index.php" class="text-white">Home</a> <span class="mx-2">/</span> <strong>Class</strong> <span class="mx-2">/</span> <strong>Play Group</strong></p>
+              <h1 class="mb-3 font-weight-bold text-teal">SENIOR-KG</h1>
+              <p><a href="index.php" class="text-white">Home</a> <span class="mx-2">/</span> <strong>Class</strong> <span class="mx-2">/</span> <strong>Senior-kg</strong></p>
             </div>
             
           </div>
@@ -69,7 +69,7 @@
         <div class="container">
             <div class="default-section-title default-section-title-middle pt-5" style="text-align:center;" >
                 
-                <h2>SINIOR-KG</h2>
+                <h2>SENIOR-KG</h2>
             </div>
             <div class="setion-content">
                             <div class="row justify-content-center">
