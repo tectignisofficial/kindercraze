@@ -24,6 +24,13 @@
 
   </head>
 
+  <style>
+    .site-section-cover, .site-section-cover .container > .row {
+    height: calc(70vh - 196px);
+    min-height: 500px;
+}
+ </style>
+
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
 
     
@@ -42,23 +49,20 @@
      include("include/header.php");
      ?>
 
-
-     
-    <div class="ftco-blocks-cover-1">
-      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/kids.jpg')">
+         
+<div class="site-section-cover overlay"  style="background-image: url('images/hero_1.jpg')">
         <div class="container">
           <div class="row align-items-center ">
 
             <div class="col-md-5 mt-5 pt-5">
-              <span class="text-cursive h5 text-red">Senior KG</span>
-              <h1 class="mb-3 font-weight-bold text-teal">Senior KG</h1>
-              <p><a href="index.html" class="text-white">Home</a> <span class="mx-3">/</span> <strong>Senior KG</strong></p>
+              <h1 class="mb-3 font-weight-bold text-teal">Play Group</h1>
+              <p><a href="index.php" class="text-white">Home</a> <span class="mx-2">/</span> <strong>Class</strong> <span class="mx-2">/</span> <strong>Play Group</strong></p>
             </div>
             
           </div>
         </div>
       </div>
-    </div>
+    
 
 
     <div class="pricing pricing-1 pt-100 ">
@@ -69,7 +73,7 @@
             </div>
             <div class="setion-content">
                             <div class="row justify-content-center">
-                            <div class="col-8">
+                            <div class="col-8 pt-4">
                         <label>Senior KG offers children the chance to display their potentials. By now they are aware of the opportunities offered by their environment and use them to the fullest. They are exposed to wider vocabulary and can express themselves well. They are conscious of their self-esteem and are now more confident. They are exposed to simple addition and subtraction. They are to learn combinations of primary colors to form secondary colours. They are made to study patterns and continue with the next combination. They are to learn logical reasoning through solving simple puzzles. They are to learn reading using rhyming words. They are taking out of the school on field trips to enable them explore their environment to the fullest.</label>
                 </div>
             </div>
