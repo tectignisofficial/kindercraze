@@ -38,14 +38,14 @@ aria-hidden="true">
                         <div class="form-group">
                             <label for="inputName">First Name</label>
                             <input type="text" name="fname" class="form-control" id="fname"
-                                placeholder="Enter Firm Name">
+                                placeholder="Enter First Name">
                         </div>
                     </div>
                     <div class="col-6">
                         <div class="form-group">
                             <label for="inputName">Last Name</label>
                             <input type="text" name="lname" class="form-control" id="lname"
-                                placeholder="Enter Name">
+                                placeholder="Enter Last Name">
                         </div>
                     </div>
                     <div class="col-6">
@@ -67,7 +67,7 @@ aria-hidden="true">
                 </div>
                 <div class="modal-footer">
             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-            <button type="submit" name="create" id="create" class="btn btn-primary">Create</button>
+            <button type="submit" name="create" id="create" class="btn btn-primary">Submit</button>
         </div>
             </form>
         </div>

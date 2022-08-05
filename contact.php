@@ -84,8 +84,11 @@ include("config.php");
               </div>
 
               <div class="form-group row">
-                <div class="col-md-12">
-                  <input type="text" class="form-control" name="email" id="email" placeholder="Email address" required>
+                <div class="col-md-6 mb-4 mb-lg-0">
+                  <input type="text" class="form-control" name="email" id="email" placeholder="Email" required>
+                </div>
+                <div class="col-md-6">
+                <input type="text" minlength="10" maxlength="10" class="form-control" name="number" id="number" placeholder="Mobile Number" required>
                 </div>
               </div>
 
@@ -212,9 +215,10 @@ if(isset($_POST['submit'])){
   $first_name=$_POST['fname'];
   $last_name=$_POST['lname'];
   $email=$_POST['email'];
+  $mobile_number=$_POST['number'];
   $message=$_POST['message'];
  
-  $sql=mysqli_query($conn,"INSERT INTO `contact`(`first_name`, `last_name`, `email`, `message`) VALUES ('$first_name','$last_name','$email','$message')");
+  $sql=mysqli_query($conn,"INSERT INTO `contact`(`first_name`, `last_name`, `email`, `mobile_number`, `message`) VALUES ('$first_name','$last_name','$email','$mobile_number','$message')");
   if($sql==1){
     echo '<script>alert("Successfully submitted");</script>';
     header("location:contact.php");
