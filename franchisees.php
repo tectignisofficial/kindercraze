@@ -129,10 +129,10 @@
             <form action="#" method="post">
               <div class="form-group row">
                 <div class="col-md-6 mb-4 mb-lg-0">
-                  <input type="text" class="form-control" name="fname" id="fname" placeholder="First name" required>
+                  <input type="text" class="form-control" name="fname" id="fname" placeholder="Your Name" required>
                 </div>
                 <div class="col-md-6">
-                  <input type="text" class="form-control"name="lname" id="lname" placeholder="Last name" required>
+                <input type="text" minlength="10" maxlength="10" class="form-control" name="number" id="number" placeholder="Mobile Number" required>
                 </div>
               </div>
 
@@ -141,15 +141,22 @@
                   <input type="text" class="form-control" name="email" id="email" placeholder="Email" required>
                 </div>
                 <div class="col-md-6">
-                <input type="text" minlength="10" maxlength="10" class="form-control" name="number" id="number" placeholder="Mobile Number" required>
+                <input type="text" class="form-control" name="number" id="number" placeholder="Area/City for Franchise" required>
                 </div>
               </div>
 
               <div class="form-group row">
                 <div class="col-md-12">
-                  <textarea name="message" id="message" class="form-control" placeholder="Write your message." cols="30" rows="10" required></textarea>
+                  <textarea name="message" id="message" class="form-control" placeholder="Address." cols="30" rows="4" required></textarea>
                 </div>
               </div>
+
+              <div class="form-group row">
+                <div class="col-md-12">
+                  <textarea name="message" id="message" class="form-control" placeholder="Description." cols="30" rows="10" required></textarea>
+                </div>
+              </div>
+              
               <div class="form-group row">
                 <div class="col-md-6 mr-auto">
                   <input type="submit" name="submit" id="submit" class="btn btn-block btn-primary text-white py-3 px-5" value="Send Message">
