@@ -37,17 +37,17 @@ $page=substr($_SERVER['SCRIPT_NAME'],strrpos($_SERVER['SCRIPT_NAME'],"/")+1);
                    <b class="caret"></b>
                 </a>
                 <ul class="dropdown-menu" role="listbox">
-                   <li class="text-center"><a href="#" role="option">hh</a></li>
-                   <li class="text-center"><a href="#" role="option">kk</a></li>
-                   <li class="text-center"><a href="#" role="option">ll</a></li>                  
-                   <li class="text-center"><a href="#" role="option">oo</a></li>                 
-                   <li class="text-center"><a href="#" role="option">mm</a></li>
+                   <li class="text-center"><a href="play_group.php" role="option">Play Group</a></li>
+                   <li class="text-center"><a href="nursery.php" role="option">Nursery</a></li>
+                   <li class="text-center"><a href="junior_kg.php" role="option">Junior K.G.</a></li>                  
+                   <li class="text-center"><a href="senior_kg.php" role="option">Senior K.G.</a></li>                 
+                   <li class="text-center"><a href="#day_care.php" role="option">Day Care</a></li>
                 </ul>
              </li>
           <li><a href="about.php" class="nav-link <?= $page == 'about.php' ? 'active':'' ?>">About</a></li>
           
           <li><a href="gallery.php" class="nav-link <?= $page == 'gallery.php' ? 'active':'' ?>">Gallery</a></li>
-          <li><a href="frenchieses.php" class="nav-link <?= $page == 'frenchieses.php' ? 'active':'' ?>">Pricing</a></li>
+          <li><a href="franchisees.php" class="nav-link <?= $page == 'franchisees.php' ? 'active':'' ?>">Get a Franchisees</a></li>
           <li><a href="contact.php" class="nav-link <?= $page == 'contact.php' ? 'active':'' ?>">Contact</a></li>
         </ul>
       </nav>
