@@ -1,7 +1,12 @@
 <?php
 $page=substr($_SERVER['SCRIPT_NAME'],strrpos($_SERVER['SCRIPT_NAME'],"/")+1);
 ?>
-
+<style>
+  .site-footer {
+    padding-top: 4rem !important;
+    padding: 0;
+}
+  </style>
 <header class="site-navbar site-navbar-target" role="banner">
 
 <div class="container mb-3">
