@@ -118,60 +118,6 @@
     </div>
     
     
-    <div class="site-section bg-info">
-      <div class="container">
-        <div class="row mb-5">
-          <div class="col-12 text-center">
-            <span class="text-cursive h5 text-red d-block">Packages You Like</span>
-            <h2 class="text-white">Our Packages</h2>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-4 mb-4 mb-lg-0">
-            <div class="package text-center bg-white">
-              <span class="img-wrap"><img src="images/flaticon/svg/001-jigsaw.svg" alt="Image" class="img-fluid"></span>
-              <h3 class="text-teal">Indoor Games</h3>
-              <p> Parachute .</p>
-              <p>Target Practice.</p>
-              <p>Snowball Fight.</p>
-              <p>Egg 'n' Spoon Race.</p>
-              <p>Indoor Obstacle Course.</p>
-              <p>Dance Party.</p>
-              <p>Hide-and-Seek.</p>
-            </div>
-          </div>
-          <div class="col-lg-4 mb-4 mb-lg-0">
-            <div class="package text-center bg-white">
-              <span class="img-wrap"><img src="images/flaticon/svg/002-target.svg" alt="Image" class="img-fluid"></span>
-              <h3 class="text-success">Outdoor Game and Event</h3>
-              <p>Simple Charades.</p>
-              <p>Hot Potato Game.</p>
-              <p>Four Corners.</p>
-              <p>Pass The Drawing.</p>
-              <p>Duck, Duck, Goose.</p>
-              <p>Jump The Line.</p>
-              <p>Freeze Dance.</p>
-            </div>
-          </div>
-          <div class="col-lg-4 mb-4 mb-lg-0">
-            <div class="package text-center bg-white">
-              <span class="img-wrap"><img src="images/flaticon/svg/003-mission.svg" alt="Image" class="img-fluid"></span>
-              <h3 class="text-danger">Camping for Kids</h3>
-              <p>Packing .</p>
-              <p>Setting up the campsite</p>
-              <p>Map Skills and Orienteering.</p>
-             <p>Map Skills and Orienteering.</p>
-             <p>Exploring .</p>
-             <p>Foraging.</p>
-             <p>Safety Skills.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    
-    
     <div class="site-section bg-light">
       <div class="container">
         <div class="row mb-5">
