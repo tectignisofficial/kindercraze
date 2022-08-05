@@ -42,8 +42,8 @@
      ?>
 
     <div class="ftco-blocks-cover-1">
-       <!-- data-stellar-background-ratio="0.5" style="background-image: url('images/Hero_22.jpg')" -->
-      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/Hero_22.jpg')">
+       <!-- data-stellar-background-ratio="0.5" style="background-image: url('images/Hero_22.webp')" -->
+      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/Hero_22.webp')">
         <div class="container">
           <div class="row align-items-center ">
 
@@ -64,7 +64,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6">
-            <img src="images/skech.jpg" alt="Image" class="img-fluid">
+            <img src="images/skech.webp" alt="Image" class="img-fluid">
           </div>
           <div class="col-md-5 ml-auto pl-md-5">
             <span class="text-cursive h5 text-red">About Us</span>
@@ -90,7 +90,7 @@
           <div class="col-lg-4 col-md-6 mb-5">
             <div class="post-entry-1 h-100 person-1 teal">
               
-                <img src="images/person_5.jpg" alt="Image"
+                <img src="images/person_5.webp" alt="Image"
                  class="img-fluid">
             
               <div class="post-entry-1-contents">
@@ -103,7 +103,7 @@
           <div class="col-lg-4 col-md-6 mb-5">
             <div class="post-entry-1 h-100 person-1 yellow">
               
-                <img src="images/person_2.jpg" alt="Image"
+                <img src="images/person_2.webp" alt="Image"
                  class="img-fluid">
             
               <div class="post-entry-1-contents">
@@ -117,7 +117,7 @@
           <div class="col-lg-4 col-md-6 mb-5">
             <div class="post-entry-1 h-100 person-1 red">
               
-                <img src="images/person_3.jpg" alt="Image"
+                <img src="images/person_3.webp" alt="Image"
                  class="img-fluid">
             
               <div class="post-entry-1-contents">
@@ -131,7 +131,7 @@
           <div class="col-lg-4 col-md-6 mb-5">
             <div class="post-entry-1 h-100 person-1 green">
               
-                <img src="images/prsn.jpg" alt="Image"
+                <img src="images/prsn.webp" alt="Image"
                  class="img-fluid">
             
               <div class="post-entry-1-contents">
@@ -145,7 +145,7 @@
           <div class="col-lg-4 col-md-6 mb-5">
             <div class="post-entry-1 h-100 person-1 blue">
               
-                <img src="images/carol.jpg" alt="Image"
+                <img src="images/carol.webp" alt="Image"
                  class="img-fluid">
             
               <div class="post-entry-1-contents">
@@ -159,7 +159,7 @@
           <div class="col-lg-4 col-md-6 mb-5">
             <div class="post-entry-1 h-100 person-1 red">
               
-                <img src="images/prsn2.jpg" alt="Image"
+                <img src="images/prsn2.webp" alt="Image"
                  class="img-fluid">
             
               <div class="post-entry-1-contents">

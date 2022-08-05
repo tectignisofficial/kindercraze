@@ -46,8 +46,8 @@
      ?>
 
     <div class="ftco-blocks-cover-1">
-       <!-- data-stellar-background-ratio="0.5" style="background-image: url('images/hero_1.jpg')" -->
-      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/hero_1.jpg')">
+       <!-- data-stellar-background-ratio="0.5" style="background-image: url('images/hero_1.webp')" -->
+      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/hero_1.webp')">
         <div class="container">
           <div class="row align-items-center ">
 
@@ -73,29 +73,29 @@
         </div>
         <div class="row">
           <div class="col-md-3 mb-4">
-            <a href="images/img_111.jpg" data-fancybox="gal"><img src="images/img_111.jpg" alt="Image" class="img-fluid"></a>
+            <a href="images/img_111.webp" data-fancybox="gal"><img src="images/img_111.webp" alt="Image" class="img-fluid"></a>
           </div>
           <div class="col-md-3 mb-4">
-            <a href="images/img_222.jpg" data-fancybox="gal"><img src="images/img_222.jpg" alt="Image" class="img-fluid"></a>
+            <a href="images/img_222.webp" data-fancybox="gal"><img src="images/img_222.webp" alt="Image" class="img-fluid"></a>
           </div>
           <div class="col-md-3 mb-4">
-            <a href="images/img_333.jpg" data-fancybox="gal"><img src="images/img_333.jpg" alt="Image" class="img-fluid"></a>
+            <a href="images/img_333.webp" data-fancybox="gal"><img src="images/img_333.webp" alt="Image" class="img-fluid"></a>
           </div>
           <div class="col-md-3 mb-4">
-            <a href="images/img_444.jpg" data-fancybox="gal"><img src="images/img_444.jpg" alt="Image" class="img-fluid"></a>
+            <a href="images/img_444.webp" data-fancybox="gal"><img src="images/img_444.webp" alt="Image" class="img-fluid"></a>
           </div>
 
           <div class="col-md-3 mb-4">
-            <a href="images/img_555.jpg" data-fancybox="gal"><img src="images/img_555.jpg" alt="Image" class="img-fluid"></a>
+            <a href="images/img_555.webp" data-fancybox="gal"><img src="images/img_555.webp" alt="Image" class="img-fluid"></a>
           </div>
           <div class="col-md-3 mb-4">
-            <a href="images/img_666.jpg" data-fancybox="gal"><img src="images/img_666.jpg" alt="Image" class="img-fluid"></a>
+            <a href="images/img_666.webp" data-fancybox="gal"><img src="images/img_666.webp" alt="Image" class="img-fluid"></a>
           </div>
           <div class="col-md-3 mb-4">
-            <a href="images/img_777.jpg" data-fancybox="gal"><img src="images/img_777.jpg" alt="Image" class="img-fluid"></a>
+            <a href="images/img_777.webp" data-fancybox="gal"><img src="images/img_777.webp" alt="Image" class="img-fluid"></a>
           </div>
           <div class="col-md-3 mb-4">
-            <a href="images/img_888.jpg" data-fancybox="gal"><img src="images/img_888.jpg" alt="Image" class="img-fluid"></a>
+            <a href="images/img_888.webp" data-fancybox="gal"><img src="images/img_888.webp" alt="Image" class="img-fluid"></a>
           </div>
         </div>
       </div>

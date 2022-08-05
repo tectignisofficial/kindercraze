@@ -94,7 +94,7 @@
       </header>
 
     <div class="ftco-blocks-cover-1">
-      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/kids.jpg')">
+      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/kids.webp')">
         <div class="container">
           <div class="row align-items-center ">
 
@@ -163,7 +163,7 @@
               <div class="owl-carousel nonloop-block-13">
                 <div class="testimonial-3 d-flex">
                   <div class="vcard-wrap mr-5">
-                    <img src="images\vedant.jpg" alt="Image" class="vcard img-fluid">
+                    <img src="images\person_1.webp" alt="Image" class="vcard img-fluid">
                   </div>
                   <div class="text">
                     <h3>Vedant Naidu</h3>
@@ -174,7 +174,7 @@
 
                 <div class="testimonial-3 d-flex">
                   <div class="vcard-wrap mr-5">
-                    <img src="images\craze.jpg" alt="Image" class="vcard img-fluid">
+                    <img src="images\craze.webp" alt="Image" class="vcard img-fluid">
                   </div>
                   <div class="text">
                     <h3>Monika Gore</h3>
@@ -185,7 +185,7 @@
 
                 <div class="testimonial-3 d-flex">
                   <div class="vcard-wrap mr-5">
-                    <img src="images\logo22.jpg" alt="Image" class="vcard img-fluid">
+                    <img src="images\logo22.webp" alt="Image" class="vcard img-fluid">
                   </div>
                   <div class="text">
                     <h3>Dipali Kale</h3>

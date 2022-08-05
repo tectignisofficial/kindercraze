@@ -134,7 +134,7 @@
               <div class="owl-carousel nonloop-block-13">
                 <div class="testimonial-3 d-flex">
                   <div class="vcard-wrap mr-5">
-                    <img src="images\person_1.jpg" alt="Image" class="vcard img-fluid">
+                    <img src="images\person_1.webp" alt="Image" class="vcard img-fluid">
                   </div>
                   <div class="text">
                     <h3>Vedant Naidu</h3>
