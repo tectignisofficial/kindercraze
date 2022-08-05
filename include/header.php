@@ -1,6 +1,7 @@
 <?php
 $page=substr($_SERVER['SCRIPT_NAME'],strrpos($_SERVER['SCRIPT_NAME'],"/")+1);
 ?>
+
 <header class="site-navbar site-navbar-target" role="banner">
 
 <div class="container mb-3">
@@ -32,6 +33,17 @@ $page=substr($_SERVER['SCRIPT_NAME'],strrpos($_SERVER['SCRIPT_NAME'],"/")+1);
       <nav class="site-navigation text-left mr-auto d-none d-lg-block" role="navigation">
         <ul class="site-menu main-menu js-clone-nav mr-auto ">
           <li><a href="index.php" class="nav-link <?= $page == 'index.php' ? 'active':'' ?>">Home</a></li>
+          <li class="dropdown"><a href="#" class="nav-link" class="dropdown-toggle" data-toggle="dropdown">Class 
+                   <b class="caret"></b>
+                </a>
+                <ul class="dropdown-menu" role="listbox">
+                   <li class="text-center"><a href="#" role="option">hh</a></li>
+                   <li class="text-center"><a href="#" role="option">kk</a></li>
+                   <li class="text-center"><a href="#" role="option">ll</a></li>                  
+                   <li class="text-center"><a href="#" role="option">oo</a></li>                 
+                   <li class="text-center"><a href="#" role="option">mm</a></li>
+                </ul>
+             </li>
           <li><a href="about.php" class="nav-link <?= $page == 'about.php' ? 'active':'' ?>">About</a></li>
           <li><a href="packages.php" class="nav-link <?= $page == 'packages.php' ? 'active':'' ?>">Packages</a></li>
           <li><a href="gallery.php" class="nav-link <?= $page == 'gallery.php' ? 'active':'' ?>">Gallery</a></li>
