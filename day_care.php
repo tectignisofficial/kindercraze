@@ -55,8 +55,8 @@
           <div class="row align-items-center ">
 
             <div class="col-md-5 mt-5 pt-5">
-              <h1 class="mb-3 font-weight-bold text-teal">SENIOR-KG</h1>
-              <p><a href="index.php" class="text-white">Home</a> <span class="mx-2">/</span> <strong>Class</strong> <span class="mx-2">/</span> <strong>Senior-kg</strong></p>
+              <h1 class="mb-3 font-weight-bold text-teal">JUNIOR-KG</h1>
+              <p><a href="index.php" class="text-white">Home</a> <span class="mx-2">/</span> <strong>Class</strong> <span class="mx-2">/</span> <strong>Junior-kg</strong></p>
             </div>
             
           </div>
@@ -69,12 +69,12 @@
         <div class="container">
             <div class="default-section-title default-section-title-middle pt-5" style="text-align:center;" >
                 
-                <h2>SENIOR-KG</h2>
+                <h2>JUNIOR-KG</h2>
             </div>
             <div class="section-content">
                             <div class="row justify-content-center">
                             <div class="col-8 pt-4">
-                        <label>Senior KG offers children the chance to display their potentials. By now they are aware of the opportunities offered by their environment and use them to the fullest. They are exposed to wider vocabulary and can express themselves well. They are conscious of their self-esteem and are now more confident. They are exposed to simple addition and subtraction. They are to learn combinations of primary colors to form secondary colours. They are made to study patterns and continue with the next combination. They are to learn logical reasoning through solving simple puzzles. They are to learn reading using rhyming words. They are taking out of the school on field trips to enable them explore their environment to the fullest.</label>
+                        <label>Children in WOW Kids Kinder craze-schools LKG program already have solid foundations necessary for their potentials to start blossoming. They are exposed to activities that ensure all round education. Their vocabulary is worked on everyday to ensure that their speaking skills are enhanced. Reading and writing of letters of the alphabet with phonics become very essential at this stage. Our Maths curriculum is divided into counting, identification of figures, size and measurements and shapes colors and patterns. Added to these are numbering, counting, sorting, classifying and recognizing and following patterns. Included in their curriculum are, science, creative arts, music etc. All these are taught in a relaxed and conducive atmosphere.</label>
                 </div>
             </div>
                         <div class="row justify-content-center pt-3">
@@ -82,15 +82,15 @@
               <h4>LEARNING SCHOOLS</h4>
             <li>  Fine Motor Activities</li>
             <li>  Writing , Reading , Math Skills</li>
-            <li>  Imaginative and Free Play</li>
+            <li>  Science and Exploratory Activities</li>
             </div>
             </div>
                          <div class="row justify-content-center pt-3">
                          <div class="col-8">
                          <h4>PERCEPTUAL MOTOR PROGRAMME</h4>
-              <li>    Music and Movement</li>
-              <li>    Sand and Water Play</li>
-              <li>    Organized Games</li>
+              <li>    Locomotor and Non-Locomotor Activities</li>
+              <li>    Creative Movements</li>
+              <li>    Manipulative Activities</li>
               </div>
             </div>
 
@@ -105,20 +105,30 @@
 
             <div class="row justify-content-center pt-3">
                          <div class="col-8">
-                         <h4>LANGUAGE SKILLS</h4>
-              <li>   Reading Skill</li>
-              <li>   Writing Skills</li>
+                         <h4>MATH SKILLS</h4>
+              <li>   Pre - Math Skills</li>
+              <li>   Numbers</li>
+              <li>  Data handling</li>
              
               </div>
             </div>
 
             <div class="row justify-content-center pt-3">
                          <div class="col-8">
+                         <h4>LANGUAGE SKILLS</h4>
+              <li>   Reading Skills</li>
+              <li>   Writing Skills</li>
+
+              </div>
+            </div>
+
+            <div class="row justify-content-center pt-3">
+                         <div class="col-8">
                          <h4>CREATIVITY</h4>
-              <li>  Freehand Drawing, Tracing and Joining Dots</li>
-              <li>   Artists</li>
+              <li>  Introduction to Colours: Black, White, Brown and Pink</li>
+              <li>  Construction</li>
+              <li>   Clay Modelling</li>
               <li>   Art and Craft</li>
-              <li>   Colouring, Painting and Printing</li>
               </div>
             </div>
 
@@ -138,6 +148,7 @@
               <li>  Stories come Alive….dramatics, story yoga, puppetry, musical plays, and make-believe situations. Role Play, dramatics in Early Years is an important part of child development; it nurtures imagination, builds confidence, creativity communication, physical development and problem solving.</li>
               <li>  Fun and Fitness - Indoor and Outdoor Fitness Programme</li>
               <li>  Full STEAM Ahead : Little Scientists at Work</li>
+              <li>Full STEAM Ahead : Little Scientists at Work STEAM is much more than just introducing concepts of Science, Technology, Engineering, Art and Math. It is a proven philosophy of advanced learning which helps young learners integrate knowledge across disciplines, encouraging them to think in a more connected and holistic way.</li>
             </div>
             </div>
                          
