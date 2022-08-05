@@ -21,7 +21,7 @@ $page=substr($_SERVER['SCRIPT_NAME'],strrpos($_SERVER['SCRIPT_NAME'],"/")+1);
       </div>
       <div class="d-flex site-info align-items-center">
         <span class="block-icon mr-3"><span class="icon-clock-o"></span></span>
-        <span>Sunday - Friday 8:00AM - 4:00PM <br> Saturday CLOSED</span>
+        <span>Monday - Friday 8:00AM - 8:00PM <br> Sunday CLOSED</span>
       </div>
       
     </div>

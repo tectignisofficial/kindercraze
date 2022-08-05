@@ -1,3 +1,9 @@
+<?php
+include("config.php");
+
+?>
+
+
 <!doctype html>
 <html lang="en">
 
@@ -126,10 +132,10 @@
           <h2>Apply Online</h2>
         </div>
         <div class="col-lg-8 mb-5" >
-            <form action="#" method="post">
+            <form method="post">
               <div class="form-group row">
                 <div class="col-md-6 mb-4 mb-lg-0">
-                  <input type="text" class="form-control" name="fname" id="fname" placeholder="Your Name" required>
+                  <input type="text" class="form-control" name="name" id="name" placeholder="Your Full Name" required>
                 </div>
                 <div class="col-md-6">
                 <input type="text" minlength="10" maxlength="10" class="form-control" name="number" id="number" placeholder="Mobile Number" required>
@@ -141,34 +147,33 @@
                   <input type="text" class="form-control" name="email" id="email" placeholder="Email" required>
                 </div>
                 <div class="col-md-6">
-                <input type="text" class="form-control" name="number" id="number" placeholder="Area/City for Franchise" required>
+                <input type="text" class="form-control" name="Acity" id="Acity" placeholder="Area/City for Franchise" required>
                 </div>
               </div>
 
               <div class="form-group row">
                 <div class="col-md-12">
-                  <textarea name="message" id="message" class="form-control" placeholder="Address." cols="30" rows="4" required></textarea>
+                  <textarea name="address" id="address" class="form-control" placeholder="Address" cols="30" rows="4" required></textarea>
                 </div>
               </div>
 
               <div class="form-group row">
                 <div class="col-md-12">
-                  <textarea name="message" id="message" class="form-control" placeholder="Description." cols="30" rows="10" required></textarea>
+                  <textarea name="description" id="description" class="form-control" placeholder="Description" cols="30" rows="10" required></textarea>
                 </div>
               </div>
               
               <div class="form-group row">
                 <div class="col-md-6 mr-auto">
-                  <input type="submit" name="submit" id="submit" class="btn btn-block btn-primary text-white py-3 px-5" value="Send Message">
+                  <input type="submit" name="submit" id="submit" class="btn btn-block btn-primary text-white py-3 px-5" value="Send">
                 </div>
               </div>
             </form>
           </div>
         </div>
       </div>             
-    </div>
-
-    
+    </div> 
+       
 
     <?php
     include("include/footer.php");
@@ -193,6 +198,26 @@
     <script src="js/main.js"></script>
 
   </body>
+
+  <?php
+  if(isset($_POST['submit'])){
+    $name=$_POST['name'];
+    $mobile_number=$_POST['number'];
+    $email=$_POST['email'];
+    $area_city=$_POST['Acity'];
+    $address=$_POST['address'];
+    $description=$_POST['description'];
+   
+    $sql=mysqli_query($conn,"INSERT INTO `franchisees`(`name`, `mobile_number`, `email`, `area_city`, `address`, `description`) VALUES ('$name','$mobile_number','$email','$area_city','$address','$description')");
+    if($sql==1){
+      echo '<script>alert("Successfully submitted");</script>';
+      header("location:franchisees.php");
+  }else {
+      echo '<script>alert("oops...somthing went wrong");</script>';
+  }
+          
+  }
+  ?>
 
 </html>
 

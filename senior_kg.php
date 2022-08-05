@@ -50,13 +50,13 @@
      ?>
 
          
-<div class="site-section-cover overlay"  style="background-image: url('images/ezgif.com-gif-maker (29).webp')">
+<div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/ezgif.com-gif-maker (29).webp')">
         <div class="container">
           <div class="row align-items-center ">
 
             <div class="col-md-5 mt-5 pt-5">
-              <h1 class="mb-3 font-weight-bold text-teal">SENIOR-KG</h1>
-              <p><a href="index.php" class="text-white">Home</a> <span class="mx-2">/</span> <strong>Class</strong> <span class="mx-2">/</span> <strong>Senior-kg</strong></p>
+              <h1 class="mb-3 font-weight-bold text-teal">Senior KG.</h1>
+              <p><a href="index.php" class="text-white">Home</a> <span class="mx-2">/</span> <strong>Class</strong> <span class="mx-2">/</span> <strong>Senior KG.</strong></p>
             </div>
             
           </div>
@@ -65,11 +65,11 @@
     
 
 
-    <div class="pricing pricing-1 pt-100 ">
+      <div class="site-section pt-5">
         <div class="container">
-            <div class="default-section-title default-section-title-middle pt-5" style="text-align:center;" >
+        <div class="col-12 text-center">
                 
-                <h3>SENIOR-KG</h3>
+                <h2 class="text-black">Senior KG.</h2>
             </div>
             <div class="section-content">
                             <div class="row justify-content-center">
