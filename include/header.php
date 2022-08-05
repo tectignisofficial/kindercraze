@@ -45,9 +45,9 @@ $page=substr($_SERVER['SCRIPT_NAME'],strrpos($_SERVER['SCRIPT_NAME'],"/")+1);
                 </ul>
              </li>
           <li><a href="about.php" class="nav-link <?= $page == 'about.php' ? 'active':'' ?>">About</a></li>
-          <li><a href="packages.php" class="nav-link <?= $page == 'packages.php' ? 'active':'' ?>">Packages</a></li>
+          
           <li><a href="gallery.php" class="nav-link <?= $page == 'gallery.php' ? 'active':'' ?>">Gallery</a></li>
-          <li><a href="pricing.php" class="nav-link <?= $page == 'pricing.php' ? 'active':'' ?>">Pricing</a></li>
+          <li><a href="frenchieses.php" class="nav-link <?= $page == 'frenchieses.php' ? 'active':'' ?>">Pricing</a></li>
           <li><a href="contact.php" class="nav-link <?= $page == 'contact.php' ? 'active':'' ?>">Contact</a></li>
         </ul>
       </nav>
