@@ -31,11 +31,7 @@
  </style>
 
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
-    <?php
-    include("gs-modal.php");
-    ?>
-
-    
+        
     <div class="site-wrap" id="home-section">
 
       <div class="site-mobile-menu site-navbar-target">
@@ -68,49 +64,58 @@
    
 
 
-    <div class="site-section">
+    <div class="site-section pt-5">
       <div class="container">
-        <div class="row mb-5">
+        <div class="row justify-content-center">
           <div class="col-12 text-center">
             <h2 class="text-black">Play Group</h2>
           </div>
         </div>
-        <div class="row">
-          <p>Playgroup kids are raised in an environment tailored to be home extension. Since this is their first contact with school, we expect some not wanting to part with their parents. We are aware of this challenge and therefore made adequate provisions for them to feel at home even from their first day in school. They learn the basic skills of co-ordination and are involved in activities that inculcate alphabetic and numerical orientation in a play-way method. They read numbers 1 – 20 and A to Z in songs. We also place emphasis on language acquisition especially correct usage of action words or doing words. We take them through a gradual process of toilet training by creating awareness and time for recess.</p>
+        <div class="row justify-content-center">
+            <div class="col-8 pt-4">
+                <p>Playgroup kids are raised in an environment tailored to be home extension. Since this is their first contact with school, we expect some not wanting to part with their parents. We are aware of this challenge and therefore made adequate provisions for them to feel at home even from their first day in school. They learn the basic skills of co-ordination and are involved in activities that inculcate alphabetic and numerical orientation in a play-way method. They read numbers 1 – 20 and A to Z in songs. We also place emphasis on language acquisition especially correct usage of action words or doing words. We take them through a gradual process of toilet training by creating awareness and time for recess.</p>
+
+            </div>       
+                     
+           <div class="col-8 pt-4">
+              <h4>LEARNING SCHOOLS</h4>
+            <li>Fine Motor Activities</li>
+            <li>Writing , Reading , Math Skills</li>
+            <li>Imaginative and Free Play</li>
+            </div>
+
+            <div class="col-8 pt-4">
+              <h4>PERCEPTUAL MOTOR PROGRAMME</h4>
+              <li>Music and Movement</li>
+              <li>Sand and Water Play</li>
+              <li>Organized Games</li>
+            </div>
+
+            <div class="col-8 pt-4">
+              <h4>LANGUAGE SKILLS</h4>
+              <li>Reading Skill</li>
+              <li>Writing Skills</li>
+            </div>
+
+            <div class="col-8 pt-4">
+              <h4>CREATIVITY</h4>
+              <li>Freehand Drawing, Tracing and Joining Dots</li>
+              <li>Artists</li>
+              <li>Art and Craft</li>
+              <li>Colouring, Painting and Printing</li>
+            </div>
+
+            <div class="col-8 pt-4">
+              <h4>TECHNOLOGY (DIGITAL LITERACY)</h4>
+              <li>Animated Content Based Stories and Songs/Rhymes</li>
+              <li>Digital Flashcards</li>
+              <li>Digital Interactive Games</li>
+            </div>
+          
         </div>
       </div>
     </div>    
- 
-    <div class="site-section bg-light" id="contact-section">
-      <div class="container">
-        <div class="row justify-content-center ">
-        <div class="col-7 text-center mb-5">
-          <h2>Syllabus</h2>
-        </div>
-        
-             
-           <div class="col-8 pt-3">
-              <h4>LEARNING SCHOOLS</h4>
-            <li>  Fine Motor Activities</li>
-            <li>  Writing , Reading , Math Skills</li>
-            <li>  Imaginative and Free Play</li>
-            </div>
-            
-            <div class="col-8 pt-3">
-              <h4>LEARNING SCHOOLS</h4>
-            <li>  Fine Motor Activities</li>
-            <li>  Writing , Reading , Math Skills</li>
-            <li>  Imaginative and Free Play</li>
-            </div>
-            <div class="col-8 pt-3">
-              <h4>LEARNING SCHOOLS</h4>
-            <li>  Fine Motor Activities</li>
-            <li>  Writing , Reading , Math Skills</li>
-            <li>  Imaginative and Free Play</li>
-            </div>
-      </div>                  
-      </div>
-    </div>
+                                   
     
     <?php
     include("include/footer.php");
