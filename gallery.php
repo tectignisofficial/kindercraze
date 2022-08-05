@@ -73,29 +73,29 @@
         </div>
         <div class="row">
           <div class="col-md-3 mb-4">
-            <a href="images/img_111.webp" data-fancybox="gal"><img src="images/img_111.webp" alt="Image" class="img-fluid"></a>
+            <a href="images/ezgif.com-gif-maker (2).webp" data-fancybox="gal"><img src="images/ezgif.com-gif-maker (2).webp" alt="Image" class="img-fluid"></a>
           </div>
           <div class="col-md-3 mb-4">
-            <a href="images/img_222.webp" data-fancybox="gal"><img src="images/img_222.webp" alt="Image" class="img-fluid"></a>
+            <a href="images/ezgif.com-gif-maker (3).webp" data-fancybox="gal"><img src="images/ezgif.com-gif-maker (3).webp" alt="Image" class="img-fluid"></a>
           </div>
           <div class="col-md-3 mb-4">
-            <a href="images/img_333.webp" data-fancybox="gal"><img src="images/img_333.webp" alt="Image" class="img-fluid"></a>
+            <a href="images/ezgif.com-gif-maker (4).webp" data-fancybox="gal"><img src="images/ezgif.com-gif-maker (4).webp" alt="Image" class="img-fluid"></a>
           </div>
           <div class="col-md-3 mb-4">
-            <a href="images/img_444.webp" data-fancybox="gal"><img src="images/img_444.webp" alt="Image" class="img-fluid"></a>
+            <a href="images/ezgif.com-gif-maker (5).webp" data-fancybox="gal"><img src="images/ezgif.com-gif-maker (5).webp" alt="Image" class="img-fluid"></a>
           </div>
 
           <div class="col-md-3 mb-4">
-            <a href="images/img_555.webp" data-fancybox="gal"><img src="images/img_555.webp" alt="Image" class="img-fluid"></a>
+            <a href="images/ezgif.com-gif-maker (6).webp" data-fancybox="gal"><img src="images/ezgif.com-gif-maker (6).webp" alt="Image" class="img-fluid"></a>
           </div>
           <div class="col-md-3 mb-4">
-            <a href="images/img_666.webp" data-fancybox="gal"><img src="images/img_666.webp" alt="Image" class="img-fluid"></a>
+            <a href="images/ezgif.com-gif-maker (7).webp" data-fancybox="gal"><img src="images/ezgif.com-gif-maker (7).webp" alt="Image" class="img-fluid"></a>
           </div>
           <div class="col-md-3 mb-4">
-            <a href="images/img_777.webp" data-fancybox="gal"><img src="images/img_777.webp" alt="Image" class="img-fluid"></a>
+            <a href="images/ezgif.com-gif-maker (8).webp" data-fancybox="gal"><img src="images/ezgif.com-gif-maker (8).webp" alt="Image" class="img-fluid"></a>
           </div>
           <div class="col-md-3 mb-4">
-            <a href="images/img_888.webp" data-fancybox="gal"><img src="images/img_888.webp" alt="Image" class="img-fluid"></a>
+            <a href="images/ezgif.com-gif-maker (9).webp" data-fancybox="gal"><img src="images/ezgif.com-gif-maker (9).webp" alt="Image" class="img-fluid"></a>
           </div>
         </div>
       </div>
