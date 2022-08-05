@@ -111,7 +111,7 @@
             <h3 class="text-black">Education with a new Skill</h3>
             <p><span>Kinder craze school is a preschool educational approach based on playing, singing, practical activities such as drawing, and social interaction as part of the transition from home to school. Such institutions were originally made in the late 18th century in Bavaria and Alsace to serve children whose parents both worked outside home.</span><span>The term was coined by the German Friedrich Fröbel, whose approach globally influenced early-years education. Today, the term is used in many countries to describe a variety of educational institutions and learning spaces for children ranging from 2 to 6 years of age, based on a variety of teaching methods.</span></p>
 
-            <p class="mt-5"><a href="about.html" class="btn btn-warning py-4 btn-custom-1">More About Us</a></p>
+            <p class="mt-5"><a href="about.php" class="btn btn-warning py-4 btn-custom-1">More About Us</a></p>
           </div>
         </div>
       </div>
