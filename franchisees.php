@@ -62,7 +62,7 @@ include("config.php");
      include("include/header.php");
      ?>
     <div class="ftco-blocks-cover-1">
-      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/free.jpg')">
+      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/play.jpg')">
         <div class="container">
           <div class="row align-items-center ">
 
