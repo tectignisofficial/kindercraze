@@ -47,7 +47,7 @@ include("config.php");
       ?>    
 
     <div class="ftco-blocks-cover-1">
-      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/ezgif.com-gif-maker.webp')">
+      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/ezgif.com-gif-maker.jpg')">
         <div class="container">
           <div class="row align-items-center ">
 
@@ -133,7 +133,7 @@ include("config.php");
               <div class="owl-carousel nonloop-block-13">
                 <div class="testimonial-3 d-flex">
                   <div class="vcard-wrap mr-5">
-                    <img src="images/ezgif.com-gif-maker (13).webp" alt="Image" class="vcard img-fluid">
+                    <img src="images/ezgif.com-gif-maker (13).jpg" alt="Image" class="vcard img-fluid">
                   </div>
                   <div class="text">
                     <h3>Vedant Naidu</h3>
@@ -144,7 +144,7 @@ include("config.php");
 
                 <div class="testimonial-3 d-flex">
                   <div class="vcard-wrap mr-5">
-                    <img src="images/ezgif.com-gif-maker (15).webp" alt="Image" class="vcard img-fluid">
+                    <img src="images/ezgif.com-gif-maker (15).jpg" alt="Image" class="vcard img-fluid">
                   </div>
                   <div class="text">
                     <h3>Monika Gore</h3>
@@ -155,7 +155,7 @@ include("config.php");
 
                 <div class="testimonial-3 d-flex">
                   <div class="vcard-wrap mr-5">
-                    <img src="images/ezgif.com-gif-maker (14).webp" alt="Image" class="vcard img-fluid">
+                    <img src="images/ezgif.com-gif-maker (14).jpg" alt="Image" class="vcard img-fluid">
                   </div>
                   <div class="text">
                     <h3>Dipali Kale</h3>

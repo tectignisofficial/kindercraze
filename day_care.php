@@ -50,7 +50,7 @@
      ?>
 
          
-<div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/ezgif.com-gif-maker (33).webp')">
+<div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/ezgif.com-gif-maker (33).jpg')">
         <div class="container">
           <div class="row align-items-center ">
 

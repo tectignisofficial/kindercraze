@@ -57,7 +57,7 @@
               
             </div>
             <div class="col-md-6 ml-auto align-self-end">
-              <img src="images\girl.webp"  alt="Image" class="img-fluid">
+              <img src="images\mady.jpg"  alt="Image" class="img-fluid">
               
             </div>
           </div>
