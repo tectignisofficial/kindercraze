@@ -38,7 +38,12 @@ include("config.php");
       .para {
         width: fit-content;
       }
-      </style>
+      
+    .site-section-cover, .site-section-cover .container > .row {
+    height: calc(70vh - 196px);
+    min-height: 500px;
+}
+ </style>
 
   </head>
 

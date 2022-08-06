@@ -2,6 +2,8 @@
 <html lang="en">
 
   <head>
+
+  
     <title>Kinder Craze Schools  &mdash; Tectignis </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -23,6 +25,7 @@
     <link rel="stylesheet" href="css/style.css">
 
   </head>
+  
   <style>
     .site-section-cover, .site-section-cover .container > .row {
     height: calc(70vh - 196px);
@@ -34,6 +37,7 @@
   <?php
     include("gs-modal.php");
     ?>
+    
 
     
     <div class="site-wrap" id="home-section">
@@ -63,7 +67,7 @@
               
             </div>
             <div class="col-md-6 ml-auto align-self-end">
-              <img src="images\mady.jpg"  alt="Image" class="img-fluid">
+              <img src="images\madhu.jpg"  alt="Image" class="img-fluid">
               
             </div>
           </div>
@@ -80,7 +84,7 @@
                 <span class="icon-home"></span>
               </span>
               <h2>Indoor Games</h2>
-              <p>Everyone enjoys games because they provide entertainment as well as exercise. If we talk about Indoor games, these games refer to games that we can play under the house's roof with so many people. For example, Ludo, Carrom, Puzzle, Card games, Chess, Table tennis, and board games.</p>
+              <p>Everyone enjoys games because they provide entertainment as well as exercise. If we talk about Indoor games, these games refer to games that we can play under the house's roof with so many people. </p>
             </div>
           </div>
           <div class="col-lg-4">
