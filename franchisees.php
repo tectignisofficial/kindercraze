@@ -35,7 +35,7 @@ include("config.php");
         font-size: 20px;
         line-height: initial;
       }
-      p {
+      .para {
         width: fit-content;
       }
       </style>
@@ -89,35 +89,35 @@ include("config.php");
           <div class="col-8 pt-4">
             <div class="d-flex side-div">
              <i class="fa-solid fa-table-cells-large side-icon"></i>
-             <p>Annual playschool curriculum</p>
+             <p class="para">Annual playschool curriculum</p>
              </div>
           </div> 
 
           <div class="col-8 pt-4">
             <div class="d-flex side-div">
             <i class="fa-solid fa-building-columns side-icon"></i>
-             <p>Training of all the Franchisee’s teachers in centre management</p>
+             <p class="para">Training of all the Franchisee’s teachers in centre management</p>
              </div>
           </div> 
 
           <div class="col-8 pt-4">
             <div class="d-flex side-div">
             <i class="fa-solid fa-bullhorn side-icon"></i>
-             <p>Regular updating of curriculum</p>
+             <p class="para">Regular updating of curriculum</p>
              </div>
           </div>
 
           <div class="col-8 pt-4">
             <div class="d-flex side-div">
             <i class="fa-solid fa-user side-icon"></i>
-             <p>Dedicated contact person at the kinder craze school Head office for resolving queries</p>
+             <p class="para">Dedicated contact person at the kinder craze school Head office for resolving queries</p>
              </div>
           </div>
 
           <div class="col-8 pt-4">
             <div class="d-flex side-div">
             <i class="fa-solid fa-image side-icon"></i>
-             <p>Mention of the Franchisee’s centre details on kinder craze school website and publishing of centre details in local advertisements (The amount to be spent by kinder craze school on this will be at its sole discretion.)</p>
+             <p class="para">Mention of the Franchisee’s centre details on kinder craze school website and publishing of centre details in local advertisements (The amount to be spent by kinder craze school on this will be at its sole discretion.)</p>
              </div>
           </div>
                                                                            
