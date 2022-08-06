@@ -111,7 +111,7 @@
               <li>Colouring, Painting and Printing</li>
             </div>
 </div>
-<div class=" pt-4" id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+        <div class=" pt-4" id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
             <div class="accordion-body">
             <h4 class="syllabus-header">TECHNOLOGY (DIGITAL LITERACY)</h4>
               <li>Animated Content Based Stories and Songs/Rhymes</li>
