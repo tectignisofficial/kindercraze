@@ -27,6 +27,12 @@ include("config.php");
     <link rel="stylesheet" href="css/style.css">
 
   </head>
+  <style>
+    .site-section-cover, .site-section-cover .container > .row {
+    height: calc(70vh - 196px);
+    min-height: 500px;
+}
+ </style>
 
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
 
