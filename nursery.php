@@ -71,45 +71,55 @@
             <h2 class="text-black">Nursery</h2>
           </div>
         </div>
-        <div class="row justify-content-center">
-            <div class="col-8 pt-4">
-                <p>The goal set for our play school’s Nursery program is based on enquiry, hands – on teaching and individualised instructions. We aim to teach them how to interact with one another using play – way methods. We crave to develop imaginative skills in all the activities the children are exposed to. One of such at WOW KIDS schools is the imaginary “City of Alphabet” where letters talk and interact with one another. Kids at this stage learn the sounds made by letters to form words. Stories are told on the interaction of letters to form simple words. Activities at this stage include, identification of numbers and letters, correct usage of action words and vocabulary development among others.</p>
-
+        
+            <div class=" pt-4" id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+            <div class="accordion-body">
+             
+            <p>The goal set for our play school’s Nursery program is based on enquiry, hands – on teaching and individualised instructions. We aim to teach them how to interact with one another using play – way methods. We crave to develop imaginative skills in all the activities the children are exposed to. One of such at WOW KIDS schools is the imaginary “City of Alphabet” where letters talk and interact with one another. Kids at this stage learn the sounds made by letters to form words. Stories are told on the interaction of letters to form simple words. Activities at this stage include, identification of numbers and letters, correct usage of action words and vocabulary development among others.</p>
+</div>
             </div>       
                      
-            <div class="col-8 pt-4">
-              <h4>LEARNING SCHOOLS</h4>           
+            <div class=" pt-4" id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+            <div class="accordion-body">
+            <h4 class="syllabus-header">LEARNING SCHOOLS</h4>           
             <li>Imaginative and Free Play</li>
             <li>Science and Exploratory activities</li>
             <li>Writing /Reading /Math skills</li>
             </div>
+</div>
 
-            <div class="col-8 pt-4">
-              <h4>PERCEPTUAL MOTOR PROGRAMME</h4>
+<div class=" pt-4" id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+            <div class="accordion-body">
+            <h4 class="syllabus-header">PERCEPTUAL MOTOR PROGRAMME</h4>
               <li>Organized Games</li>
               <li>Sand and Water Play</li>
               <li>Locomotor and Non-Locomotor activities</li>
             </div>
-
-            <div class="col-8 pt-4">
-              <h4>CONVERSATION</h4>
+</div>
+<div class=" pt-4" id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+            <div class="accordion-body">
+            <h4 class="syllabus-header">CONVERSATION</h4>
               <li>Listening and Speaking Skills</li>
               <li>Story Comprehension</li>
               <li>Vocabulary Building Activities</li>
               <li>Picture Book Reading</li>
             </div>
-
-            <div class="col-8 pt-4">
-              <h4>CREATIVITY</h4>              
+</div>
+<div class=" pt-4" id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+            <div class="accordion-body">
+            <h4 class="syllabus-header">CREATIVITY</h4>              
               <li>Art and Craft</li>
               <li>Colouring, Painting and Printing</li>
               <li>Clay Modelling</li>
             </div>
+</div>
 
-            <div class="col-8 pt-4">
-              <h4>BOOKS FOR THE YEAR</h4>
+<div class=" pt-4" id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+            <div class="accordion-body">
+            <h4 class="syllabus-header">BOOKS FOR THE YEAR</h4>
               <li>Worksheets: Creative Activities, Language Skills, MMW and Math Skills</li>              
             </div>
+</div>
           
         </div>
       </div>
