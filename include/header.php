@@ -28,6 +28,11 @@ p{
 .social-footer{
   margin-left: -19px;
 }
+@media (max-width: 991.98px){
+  .site-section {   
+    padding-bottom: 0;
+}
+}
   </style>
 <header class="site-navbar site-navbar-target" role="banner">
 
