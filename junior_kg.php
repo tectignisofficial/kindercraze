@@ -72,40 +72,40 @@
                 <h2 class="text-black">Junior KG.</h2>
             </div>
             <div class="section-content">
-                            <div class="row justify-content-center">
-                            <div class="col-8 pt-4">
-                        <label>Children in WOW Kids Kinder craze-schools LKG program already have solid foundations necessary for their potentials to start blossoming. They are exposed to activities that ensure all round education. Their vocabulary is worked on everyday to ensure that their speaking skills are enhanced. Reading and writing of letters of the alphabet with phonics become very essential at this stage. Our Maths curriculum is divided into counting, identification of figures, size and measurements and shapes colors and patterns. Added to these are numbering, counting, sorting, classifying and recognizing and following patterns. Included in their curriculum are, science, creative arts, music etc. All these are taught in a relaxed and conducive atmosphere.</label>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+                        <p>Children in WOW Kids Kinder craze-schools LKG program already have solid foundations necessary for their potentials to start blossoming. They are exposed to activities that ensure all round education. Their vocabulary is worked on everyday to ensure that their speaking skills are enhanced. Reading and writing of letters of the alphabet with phonics become very essential at this stage. Our Maths curriculum is divided into counting, identification of figures, size and measurements and shapes colors and patterns. Added to these are numbering, counting, sorting, classifying and recognizing and following patterns. Included in their curriculum are, science, creative arts, music etc. All these are taught in a relaxed and conducive atmosphere.</p>
                 </div>
             </div>
-                        <div class="row justify-content-center pt-3">
-                        <div class="col-8">
-              <h4>LEARNING SCHOOLS</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">LEARNING SCHOOLS</h4>
             <li>  Fine Motor Activities</li>
             <li>  Writing , Reading , Math Skills</li>
             <li>  Science and Exploratory Activities</li>
             </div>
             </div>
-                         <div class="row justify-content-center pt-3">
-                         <div class="col-8">
-                         <h4>PERCEPTUAL MOTOR PROGRAMME</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">PERCEPTUAL MOTOR PROGRAMME</h4>
               <li>    Locomotor and Non-Locomotor Activities</li>
               <li>    Creative Movements</li>
               <li>    Manipulative Activities</li>
               </div>
             </div>
 
-            <div class="row justify-content-center pt-3">
-                         <div class="col-8">
-                         <h4>CONVERSATION</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">CONVERSATION</h4>
               <li>  Listening and Speaking Skills</li>
               <li>   Reading Skills</li>
              
               </div>
             </div>
 
-            <div class="row justify-content-center pt-3">
-                         <div class="col-8">
-                         <h4>MATH SKILLS</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">MATH SKILLS</h4>
               <li>   Pre - Math Skills</li>
               <li>   Numbers</li>
               <li>  Data handling</li>
@@ -113,18 +113,18 @@
               </div>
             </div>
 
-            <div class="row justify-content-center pt-3">
-                         <div class="col-8">
-                         <h4>LANGUAGE SKILLS</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">LANGUAGE SKILLS</h4>
               <li>   Reading Skills</li>
               <li>   Writing Skills</li>
 
               </div>
             </div>
 
-            <div class="row justify-content-center pt-3">
-                         <div class="col-8">
-                         <h4>CREATIVITY</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">CREATIVITY</h4>
               <li>  Introduction to Colours: Black, White, Brown and Pink</li>
               <li>  Construction</li>
               <li>   Clay Modelling</li>
@@ -132,18 +132,18 @@
               </div>
             </div>
 
-            <div class="row justify-content-center pt-3">
-                         <div class="col-8">
-                         <h4>TECHNOLOGY (DIGITAL LITERACY)</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">TECHNOLOGY (DIGITAL LITERACY)</h4>
               <li>  Animated Content Based Stories and Songs/Rhymes</li>
               <li>  Digital Flashcards</li>
               <li>   Digital Interactive Games</li>
             </div>
             </div>
 
-            <div class="row justify-content-center pt-3">
-                         <div class="col-8">
-                         <h4>ENRICHMENT PROGRAMME</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">ENRICHMENT PROGRAMME</h4>
                          
               <li>  Stories come Alive….dramatics, story yoga, puppetry, musical plays, and make-believe situations. Role Play, dramatics in Early Years is an important part of child development; it nurtures imagination, builds confidence, creativity communication, physical development and problem solving.</li>
               <li>  Fun and Fitness - Indoor and Outdoor Fitness Programme</li>

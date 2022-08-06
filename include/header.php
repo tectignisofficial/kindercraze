@@ -6,6 +6,28 @@ $page=substr($_SERVER['SCRIPT_NAME'],strrpos($_SERVER['SCRIPT_NAME'],"/")+1);
     padding-top: 4rem !important;
     padding: 0;
 }
+.syllabus-header{
+  word-spacing:4px;
+  letter-spacing:1px;
+  margin-top: 25px;
+}
+p{
+  letter-spacing:1px;
+  word-spacing:2px;
+}
+
+@media only screen and (max-width: 600px) {
+  .top-social a {
+  
+  padding: 6px;
+}
+ .social-footer{
+  margin-left: 4px !important;
+ } 
+}
+.social-footer{
+  margin-left: -19px;
+}
   </style>
 <header class="site-navbar site-navbar-target" role="banner">
 

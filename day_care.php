@@ -72,8 +72,9 @@
                 <h2 class="text-black">Daycare Services</h2>
             </div>
             <div class="section-content">
-                            <div class="row justify-content-center">
-                            <div class="col-8 pt-4">
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              
                         <label>WOW KIDS Day Care Center is a home away from home where a child is engaged meaningfully, developing skills with joy, while enhancing different abilities in children. WOW Kids day Care Center offers personal care and attention to children between 2 year  to 12 years.</label>
                         <label>The center’s aesthetically designed environment replicates the warmth, comfort and security of home. Child friendly equipment, safety and security norms make the place world class. A walk inside the area reveals a child proofed, infant and toddler room and foam padded flooring, to avoid any accidents.</label>
                         <label>A play house, a puppet stand, a small library, age appropriate toys are also at hand.
@@ -83,16 +84,16 @@
                         <label>A safe haven for children of ages 2 to 10 Years, this homely amenity is specifically for a child’s well-being and their guardian’s mental peace.</label>
                     </div>
             </div>
-                        <div class="row justify-content-center pt-3">
-                        <div class="col-8">
-              <h4>Working Parents</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">Working Parents</h4>
             <li>  Meeting the needs of parents by offering playful, safe companionship to the children</li>
             
             </div>
             </div>
-                         <div class="row justify-content-center pt-3">
-                         <div class="col-8">
-                         <h4>After School Hours</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">After School Hours</h4>
               <li>    Offering karate</li>
               <li>    zumba</li>
               <li>    music</li>
@@ -102,35 +103,35 @@
               </div>
             </div>
 
-            <div class="row justify-content-center pt-3">
-                         <div class="col-8">
-                         <h4>CONVERSATION</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">CONVERSATION</h4>
               <li>  Listening and Speaking Skills</li>
               <li>   Reading Skills</li>
              
               </div>
             </div>
 
-            <div class="row justify-content-center pt-3">
-                         <div class="col-8">
-                         <h4>Vacation Time</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">Vacation Time</h4>
               <li>  Stimulating children’s physical & intellectual abilities</li>
              
               </div>
             </div>
 
-            <div class="row justify-content-center pt-3">
-                         <div class="col-8">
-                         <h4>Talent Development</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">Talent Development</h4>
               <li> Offering opportunities to exhibit & polish creativity, promote hidden talents</li>
              
 
               </div>
             </div>
 
-            <div class="row justify-content-center pt-3">
-                         <div class="col-8">
-                         <h4>Socializing Time</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">Socializing Time</h4>
               <li>  Children remain healthily engaged with friends</li>
              
               </div>

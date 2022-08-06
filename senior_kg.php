@@ -72,49 +72,50 @@
                 <h2 class="text-black">Senior KG.</h2>
             </div>
             <div class="section-content">
-                            <div class="row justify-content-center">
-                            <div class="col-8 pt-4">
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+            
                         <label>Senior KG offers children the chance to display their potentials. By now they are aware of the opportunities offered by their environment and use them to the fullest. They are exposed to wider vocabulary and can express themselves well. They are conscious of their self-esteem and are now more confident. They are exposed to simple addition and subtraction. They are to learn combinations of primary colors to form secondary colours. They are made to study patterns and continue with the next combination. They are to learn logical reasoning through solving simple puzzles. They are to learn reading using rhyming words. They are taking out of the school on field trips to enable them explore their environment to the fullest.</label>
                 </div>
             </div>
-                        <div class="row justify-content-center pt-3">
-                        <div class="col-8">
-              <h4>LEARNING SCHOOLS</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">LEARNING SCHOOLS</h4>
             <li>  Fine Motor Activities</li>
             <li>  Writing , Reading , Math Skills</li>
             <li>  Imaginative and Free Play</li>
             </div>
             </div>
-                         <div class="row justify-content-center pt-3">
-                         <div class="col-8">
-                         <h4>PERCEPTUAL MOTOR PROGRAMME</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">PERCEPTUAL MOTOR PROGRAMME</h4>
               <li>    Music and Movement</li>
               <li>    Sand and Water Play</li>
               <li>    Organized Games</li>
               </div>
             </div>
 
-            <div class="row justify-content-center pt-3">
-                         <div class="col-8">
-                         <h4>CONVERSATION</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">CONVERSATION</h4>
               <li>  Listening and Speaking Skills</li>
               <li>   Reading Skills</li>
              
               </div>
             </div>
 
-            <div class="row justify-content-center pt-3">
-                         <div class="col-8">
-                         <h4>LANGUAGE SKILLS</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">LANGUAGE SKILLS</h4>
               <li>   Reading Skill</li>
               <li>   Writing Skills</li>
              
               </div>
             </div>
 
-            <div class="row justify-content-center pt-3">
-                         <div class="col-8">
-                         <h4>CREATIVITY</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">CREATIVITY</h4>
               <li>  Freehand Drawing, Tracing and Joining Dots</li>
               <li>   Artists</li>
               <li>   Art and Craft</li>
@@ -122,18 +123,18 @@
               </div>
             </div>
 
-            <div class="row justify-content-center pt-3">
-                         <div class="col-8">
-                         <h4>TECHNOLOGY (DIGITAL LITERACY)</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">TECHNOLOGY (DIGITAL LITERACY)</h4>
               <li>  Animated Content Based Stories and Songs/Rhymes</li>
               <li>  Digital Flashcards</li>
               <li>   Digital Interactive Games</li>
             </div>
             </div>
 
-            <div class="row justify-content-center pt-3">
-                         <div class="col-8">
-                         <h4>ENRICHMENT PROGRAMME</h4>
+            <div id="collapse-01" class="accordion-collapse collapse show" aria-labelledby="heading-01" data-bs-parent="#purpose">
+      <div class="accordion-body">
+              <h4 class="syllabus-header">ENRICHMENT PROGRAMME</h4>
                          
               <li>  Stories come Alive….dramatics, story yoga, puppetry, musical plays, and make-believe situations. Role Play, dramatics in Early Years is an important part of child development; it nurtures imagination, builds confidence, creativity communication, physical development and problem solving.</li>
               <li>  Fun and Fitness - Indoor and Outdoor Fitness Programme</li>

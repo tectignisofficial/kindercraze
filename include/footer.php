@@ -27,7 +27,7 @@ if(isset($_POST['send'])){
                 
                   <h2 class="footer-heading mb-4">Follow us </h2>
                   <ul class="list-unstyled">
-                    <div class="top-social" style="margin-left: -19px;">
+                    <div class="top-social social-footer">
                       <a href="https://facebook.com/"><span class="icon-facebook text-teal"></span></a>
                       <a href="https://twitter.com/"><span class="icon-twitter text-success"></span></a>
                       <a href="https://instagram.com/"><span class="icon-instagram text-pink"></span></a>
