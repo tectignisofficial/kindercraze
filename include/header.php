@@ -33,6 +33,7 @@ p{
     padding-bottom: 0;
 }
 }
+
   </style>
 <header class="site-navbar site-navbar-target" role="banner">
 

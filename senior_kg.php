@@ -24,12 +24,12 @@
 
   </head>
 
-  <style>
+  <!-- <style>
     .site-section-cover, .site-section-cover .container > .row {
     height: calc(70vh - 196px);
     min-height: 500px;
 }
- </style>
+ </style> -->
 
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
 
@@ -50,11 +50,11 @@
      ?>
 
          
-<div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/ezgif.com-gif-maker (29).jpg')">
+<div class="site-section-cover overlay"  style="background-image: url('images/ezgif.com-gif-maker (29).jpg')">
         <div class="container">
           <div class="row align-items-center ">
 
-            <div class="col-md-5 mt-5 pt-5">
+            <div class="col-md-5 mt-5 playGroup" style="padding-top:10rem;">
               <h1 class="mb-3 font-weight-bold text-teal">Senior KG.</h1>
               <p><a href="index.php" class="text-white">Home</a> <span class="mx-2">/</span> <strong>Class</strong> <span class="mx-2">/</span> <strong>Senior KG.</strong></p>
             </div>
@@ -147,7 +147,7 @@
         </div>
     </div>
 
-<br>
+<!-- <br>
 <br>
     
         <div class="row mt-5 justify-content-center">
@@ -155,7 +155,7 @@
           <div class="col-md-8">
         
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
 

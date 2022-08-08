@@ -49,11 +49,11 @@
 
 
     <div class="ftco-blocks-cover-1">
-      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/ezgif.com-gif-maker (10).jpg')">
+      <div class="site-section-cover overlay"  style="background-image: url('images/ezgif.com-gif-maker (10).jpg')">
         <div class="container">
           <div class="row align-items-center ">
 
-            <div class="col-md-5 mt-5 pt-5">
+            <div class="col-md-5 mt-5 playGroup" style="padding-top:10rem;">
               <span class="text-cursive h5 text-red">Terms and Service</span>
               <h1 class="mb-3 font-weight-bold text-teal">terms and service</h1>
               <p><a href="index.html" class="text-white">Home</a> <span class="mx-3">/</span> <strong>terms</strong></p>

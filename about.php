@@ -22,12 +22,7 @@
     <link rel="stylesheet" href="css/style.css">
 
   </head>
-  <style>
-    .site-section-cover, .site-section-cover .container > .row {
-    height: calc(70vh - 196px);
-    min-height: 500px;
-}
- </style>
+ 
 
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
 
@@ -51,12 +46,12 @@
 
 
     <div class="ftco-blocks-cover-1">
-       <!-- data-stellar-background-ratio="0.5" style="background-image: url('images/Hero_22.jpg')" -->
-      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/Hero_22.jpg')">
+       <!--  style="background-image: url('images/Hero_22.jpg')" -->
+      <div class="site-section-cover overlay" style="background-image: url('images/Hero_22.jpg')">
         <div class="container">
           <div class="row align-items-center ">
 
-            <div class="col-md-5 mt-5 pt-5">
+            <div class="col-md-5 mt-5 playGroup" style="padding-top:10rem;">
               <span class="text-cursive h5 text-red">Welcome To Our Website</span>
               <h1 class="mb-3 font-weight-bold text-teal">About Us</h1>
               <p><a href="index.php" class="text-white">Home</a> <span class="mx-3">/</span> <strong>About</strong></p>
@@ -75,7 +70,7 @@
           <div class="col-md-6">
             <img src="images/ezgif.com-gif-maker (28).jpg" alt="Image" class="img-fluid">
           </div>
-          <div class="col-md-5 ml-auto pl-md-5">
+          <div class="col-md-5 ml-auto aboutUsMargin pl-md-5">
             <span class="text-cursive h5 text-red">About Us</span>
             <h3 class="text-black">Education with a new Skill</h3>
             <p><span>Kinder craze school is a preschool educational approach based on playing, singing, practical activities such as drawing, and social interaction as part of the transition from home to school. Such institutions were originally made in the late 18th century in Bavaria and Alsace to serve children whose parents both worked outside home.</span><span>The term was coined by the German Friedrich Fröbel, whose approach globally influenced early-years education. Today, the term is used in many countries to describe a variety of educational institutions and learning spaces for children ranging from 2 to 6 years of age, based on a variety of teaching methods.</span></p>
@@ -91,7 +86,7 @@
           <div class="col-md-6">
             <span class="text-cursive h5 text-red">The Team</span>
             <h3 class="text-white text-center">Meet The Team</h3>
-            <p class="mb-5">This clever idea highlights both the diversity of backgrounds that the Kiddy masters team brings, as well as the uniqueness of each member. It also provides a sense of friendly nostalgia to new visitors.</p>
+            <p class="mb-5 teamPara">This clever idea highlights both the diversity of backgrounds that the Kiddy masters team brings, as well as the uniqueness of each member. It also provides a sense of friendly nostalgia to new visitors.</p>
           </div>
         </div>
         <div class="row align-items-stretch">
@@ -99,7 +94,7 @@
           <div class="col-lg-4 col-md-6 mb-5">
             <div class="post-entry-1 h-100 person-1 teal">
               
-                <img src="images/ezgif.com-gif-maker (17).jpg" alt="Image"
+                <img src="images/ioana.jpg" alt="Image"
                  class="img-fluid">
             
               <div class="post-entry-1-contents">
@@ -146,7 +141,7 @@
               <div class="post-entry-1-contents">
                 <span class="meta">Design Director</span>
                 <h2>Snehal Ambavale</h2>
-                <p>Snehal leads the talented design team at Kinder craze school! </p>
+                <p>Snehal is joined in Sept. 2020, she leads the talented design team at Kinder craze school! </p>
               </div>
             </div>
           </div>
@@ -194,7 +189,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-lg-4">
+          <div class="col-lg-4 ourPackages">
             <div class="package text-center bg-white">
               <span class="img-wrap"><img src="images/flaticon/svg/001-jigsaw.svg" alt="Image" class="img-fluid"></span>
               <h3 class="text-teal">Indoor Games</h3>
@@ -207,7 +202,7 @@
               <p>Hide-and-Seek.</p>
             </div>
           </div>
-          <div class="col-lg-4">
+          <div class="col-lg-4 ourPackages">
             <div class="package text-center bg-white">
               <span class="img-wrap"><img src="images/flaticon/svg/002-target.svg" alt="Image" class="img-fluid"></span>
               <h3 class="text-success">Outdoor Game and Event</h3>
@@ -220,7 +215,7 @@
               <p>Freeze Dance.</p>
             </div>
           </div>
-          <div class="col-lg-4">
+          <div class="col-lg-4 ourPackages">
             <div class="package text-center bg-white">
               <span class="img-wrap"><img src="images/flaticon/svg/003-mission.svg" alt="Image" class="img-fluid"></span>
               <h3 class="text-danger">Camping for Kids</h3>

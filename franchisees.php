@@ -39,10 +39,10 @@ include("config.php");
         width: fit-content;
       }
       
-    .site-section-cover, .site-section-cover .container > .row {
+    /* .site-section-cover, .site-section-cover .container > .row {
     height: calc(70vh - 196px);
     min-height: 500px;
-}
+} */
  </style>
 
   </head>
@@ -67,11 +67,11 @@ include("config.php");
      include("include/header.php");
      ?>
     <div class="ftco-blocks-cover-1">
-      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/play.jpg')">
+      <div class="site-section-cover overlay"  style="background-image: url('images/play.jpg')">
         <div class="container">
           <div class="row align-items-center ">
 
-            <div class="col-md-5 mt-5 pt-5">
+            <div class="col-md-5 mt-5 playGroup" style="padding-top:10rem;">
               <span class="text-cursive h5 text-red">Franchisees</span>
               <h1 class="mb-3 font-weight-bold text-teal">Kinder Craze Support</h1>
               <p><a href="index.html" class="text-white">Home</a> <span class="mx-3">/</span> <strong>Franchisees</strong></p>

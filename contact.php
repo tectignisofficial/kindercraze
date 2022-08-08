@@ -27,12 +27,12 @@ include("config.php");
     <link rel="stylesheet" href="css/style.css">
 
   </head>
-  <style>
+  <!-- <style>
     .site-section-cover, .site-section-cover .container > .row {
     height: calc(70vh - 196px);
     min-height: 500px;
 }
- </style>
+ </style> -->
 
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
 
@@ -53,11 +53,11 @@ include("config.php");
       ?>    
 
     <div class="ftco-blocks-cover-1">
-      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/ezgif.com-gif-maker.jpg')">
+      <div class="site-section-cover overlay"  style="background-image: url('images/ezgif.com-gif-maker.jpg')">
         <div class="container">
           <div class="row align-items-center ">
 
-            <div class="col-md-5 mt-5 pt-5">
+            <div class="col-md-5 mt-5 playGroup" style="padding-top:10rem;">
               <span class="text-cursive h5 text-red">Contact</span>
               <h1 class="mb-3 font-weight-bold text-teal">Get In Touch</h1>
               <p><a href="index.php" class="text-white">Home</a> <span class="mx-3">/</span> <strong>Contact</strong></p>
@@ -73,7 +73,7 @@ include("config.php");
       <div class="container">
         <div class="row justify-content-center text-center">
         <div class="col-7 text-center mb-5">
-          <h2>Get In Touch Using The Contact Form</h2>
+          <h2 class="contactHeading">Get In Touch Using The Contact Form</h2>
 
         </div>
       </div>
@@ -107,7 +107,7 @@ include("config.php");
               </div>
             </form>
           </div>
-          <div class="col-lg-4 ml-auto">
+          <div class="col-lg-4 ml-auto contactInfo">
             <div class="bg-white p-3 p-md-5">
               <h3 class="text-black mb-4">Contact Info</h3>
               <ul class="list-unstyled footer-link">
@@ -136,37 +136,37 @@ include("config.php");
             <div class="testimonial-3-wrap">
               
 
-              <div class="owl-carousel nonloop-block-13">
-                <div class="testimonial-3 d-flex">
-                  <div class="vcard-wrap mr-5">
-                    <img src="images/ezgif.com-gif-maker (13).jpg" alt="Image" class="vcard img-fluid">
+            <div class="owl-carousel nonloop-block-13">
+                <div class="testimonial-3 row">
+                  <div class="col-lg-2 col-md-2 col-sm-12 justify-content-center align-item-center">
+                    <img src="images\ezgif.com-gif-maker (13).jpg" alt="Image" class="vcard img-fluid">
                   </div>
-                  <div class="text">
+                  <div class="text col-lg-10 col-md-10 col-sm-12">
                     <h3>Vedant Naidu</h3>
                     <p class="position">Partner</p>
-                    <p>My daughter has been going to this school for more than one year and she loves all the teachers in the school . Teachers are so caring and lovable. She likes the extra curricular activities such as tinkering lab, painting and gardening. In addition to extra curricular activities they also teach well. She learns new stuff everyday and her communication has improved a lot. This school has turned my daughter into a happy kid.</p>
+                    <p>My daughter has been going to this school for more than one year and she loves all the teachers in the school. Teachers are so caring and lovable. She likes the extra curricular activities such as tinkering lab, painting and gardening.</p>
                   </div>
                 </div>
 
-                <div class="testimonial-3 d-flex">
-                  <div class="vcard-wrap mr-5">
-                    <img src="images/ezgif.com-gif-maker (15).jpg" alt="Image" class="vcard img-fluid">
+                <div class="testimonial-3 row">
+                  <div class="col-lg-2 col-md-2 col-sm-12 justify-content-center align-item-center">
+                    <img src="images\ezgif.com-gif-maker (14).jpg" alt="Image" class="vcard img-fluid">
                   </div>
-                  <div class="text">
+                  <div class="text col-lg-10 col-md-10 col-sm-12">
                     <h3>Monika Gore</h3>
                     <p class="position">Partner</p>
-                    <p>This is our 5th year at CMP and we couldn’t be happier for being part of this amazing school! This is truly a place where kids can be kids: they will play in puddles when it’s raining (while using appropriate gear – rain boots and jackets), they will play in the mud kitchen, they will have so much fun! The outdoor activities are our favorites: Nature Lab, Chicken Coop, outdoor decks, Tinkering, Art Studio and Music Garden.</p>
+                    <p>This is our 5th year at CMP and we couldn’t be happier for being part of this amazing school! This is truly a place where kids can be kids: they will play in puddles when it’s raining (while using appropriate gear – rain boots and jackets).</p>
                   </div>
                 </div>
 
-                <div class="testimonial-3 d-flex">
-                  <div class="vcard-wrap mr-5">
-                    <img src="images/ezgif.com-gif-maker (14).jpg" alt="Image" class="vcard img-fluid">
+                <div class="testimonial-3 row">
+                  <div class="col-lg-2 col-md-2 col-sm-12 justify-content-center align-item-center">
+                    <img src="images\ezgif.com-gif-maker (15).jpg" alt="Image" class="vcard img-fluid">
                   </div>
-                  <div class="text">
+                  <div class="text col-lg-10 col-md-10 col-sm-12">
                     <h3>Dipali Kale</h3>
                     <p class="position">Partner</p>
-                    <p>We have been sending our son to Atharva Kale Preschool for 3 years now and the progress in development we see in our son is just a joy. He learns so much new stuff and words that it sometime raises an eyebrow, a very positive one, such as where did you get that word from, unexpected but very perfect and accurate description.</p>
+                    <p>We have been sending our son to Atharva Kale Preschool for 3 years now and the progress in development we see in our son is just a joy. He learns so much new stuff and words that it sometime raises an eyebrow.</p>
                   </div>
                 </div>
               </div>

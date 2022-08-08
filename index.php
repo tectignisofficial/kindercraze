@@ -26,12 +26,12 @@
 
   </head>
   
-  <style>
+  <!-- <style>
     .site-section-cover, .site-section-cover .container > .row {
     height: calc(70vh - 196px);
     min-height: 500px;
 }
- </style>
+ </style> -->
 
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
   <?php
@@ -55,21 +55,19 @@
      include("include/header.php");
      ?>
 
-    <div class="ftco-blocks-cover-1">
-       
-      <div class="site-section-cover overlay">
+<div class="ftco-blocks-cover-1">
+       <!--  style="background-image: url('images/girl1.jpg')" -->
+       <!-- data-stellar-background-ratio="0.5" -->
+      <div class="site-section-cover overlay"  style="background-image: url('images/girl1.jpg')">
         <div class="container">
           <div class="row align-items-center ">
-            <div class="col-md-5 mt-5 pt-5">
+
+            <div class="col-md-5 mt-5 playGroup" style="padding-top:10rem;">
               <span class="text-cursive h5 text-red">Welcome To Kinder Craze School</span>
               <h1 class="mb-3 font-weight-bold text-teal">Learning fun, sharing the joy</h1>
               <p>Wonderful Playground for your kids</p>
-              
             </div>
-            <div class="col-md-6 ml-auto align-self-end">
-              <img src="images\madhu.jpg"  alt="Image" class="img-fluid">
-              
-            </div>
+            
           </div>
         </div>
       </div>
@@ -94,7 +92,7 @@
               </span>
               <h2>Outdoor Game And Event</h2>
               <p>
-                Outdoor play advances child's problem-solving abilities and initiates creative thinking among them. It also develops social skills in them and encourages listening habits when they interact with their friends. Gradually their communication and behavior skills develop.</p>
+                Outdoor play advances child's problem-solving abilities and initiates creative thinking among them. It also develops social skills in them and encourages listening habits when they interact with their friends.</p>
             </div>
           </div>
           <div class="col-lg-4">
@@ -103,7 +101,7 @@
                 <span class="icon-cog"></span>
               </span>
               <h2>Camping for Kids</h2>
-              <p>Camping with kids poses many challenges, but keeping them entertained during downtime shouldn’t be one of them. There are plenty of things to do while camping — in between putting up the tents and roasting marshmallows — all it takes is a little creativity.Because outside is the new inside.</p>
+              <p>Camping with kids poses many challenges, but keeping them entertained during downtime shouldn’t be one of them. There are plenty of things to do while camping — in between putting up the tents and roasting marshmallows.</p>
             </div>
           </div>
         </div>
@@ -142,36 +140,36 @@
               
 
               <div class="owl-carousel nonloop-block-13">
-                <div class="testimonial-3 d-flex">
-                  <div class="vcard-wrap mr-5">
-                    <img src="images\ezgif.com-gif-maker (13).jpg" alt="Image" class="vcard img-fluid">
+                <div class="testimonial-3 row">
+                  <div class="col-lg-2 col-md-2 col-sm-12 justify-content-center align-item-center">
+                    <img src="images\ezgif.com-gif-maker (13).jpg" alt="Image" class="vcard img-fluid" style="margin-bottom: 10px;">
                   </div>
-                  <div class="text">
+                  <div class="text col-lg-10 col-md-10 col-sm-12">
                     <h3>Vedant Naidu</h3>
                     <p class="position">Partner</p>
-                    <p>My daughter has been going to this school for more than one year and she loves all the teachers in the school . Teachers are so caring and lovable. She likes the extra curricular activities such as tinkering lab, painting and gardening. In addition to extra curricular activities they also teach well. She learns new stuff everyday and her communication has improved a lot. This school has turned my daughter into a happy kid.</p>
+                    <p>My daughter has been going to this school for more than one year and she loves all the teachers in the school. Teachers are so caring and lovable. She likes the extra curricular activities such as tinkering lab, painting and gardening.</p>
                   </div>
                 </div>
 
-                <div class="testimonial-3 d-flex">
-                  <div class="vcard-wrap mr-5">
-                    <img src="images\ezgif.com-gif-maker (14).jpg" alt="Image" class="vcard img-fluid">
+                <div class="testimonial-3 row">
+                  <div class="col-lg-2 col-md-2 col-sm-12 justify-content-center align-item-center">
+                    <img src="images\ezgif.com-gif-maker (14).jpg" alt="Image" class="vcard img-fluid" style="margin-bottom: 10px;">
                   </div>
-                  <div class="text">
+                  <div class="text col-lg-10 col-md-10 col-sm-12">
                     <h3>Monika Gore</h3>
                     <p class="position">Partner</p>
-                    <p>This is our 5th year at CMP and we couldn’t be happier for being part of this amazing school! This is truly a place where kids can be kids: they will play in puddles when it’s raining (while using appropriate gear – rain boots and jackets), they will play in the mud kitchen, they will have so much fun! The outdoor activities are our favorites: Nature Lab, Chicken Coop, outdoor decks, Tinkering, Art Studio and Music Garden.</p>
+                    <p>This is our 5th year at CMP and we couldn’t be happier for being part of this amazing school! This is truly a place where kids can be kids: they will play in puddles when it’s raining (while using appropriate gear – rain boots and jackets).</p>
                   </div>
                 </div>
 
-                <div class="testimonial-3 d-flex">
-                  <div class="vcard-wrap mr-5">
-                    <img src="images\ezgif.com-gif-maker (15).jpg" alt="Image" class="vcard img-fluid">
+                <div class="testimonial-3 row">
+                  <div class="col-lg-2 col-md-2 col-sm-12 justify-content-center align-item-center">
+                    <img src="images\ezgif.com-gif-maker (15).jpg" alt="Image" class="vcard img-fluid" style="margin-bottom: 10px;">
                   </div>
-                  <div class="text">
+                  <div class="text col-lg-10 col-md-10 col-sm-12">
                     <h3>Dipali Kale</h3>
                     <p class="position">Partner</p>
-                    <p>We have been sending our son to Atharva Kale Preschool for 3 years now and the progress in development we see in our son is just a joy. He learns so much new stuff and words that it sometime raises an eyebrow, a very positive one, such as where did you get that word from, unexpected but very perfect and accurate description.</p>
+                    <p>We have been sending our son to Atharva Kale Preschool for 3 years now and the progress in development we see in our son is just a joy. He learns so much new stuff and words that it sometime raises an eyebrow.</p>
                   </div>
                 </div>
               </div>
@@ -184,22 +182,22 @@
           <div class="col-md-8">
             
 
-            <div class="row">
+            <div class="row testimonialbelow">
               <div class="col-lg-3 text-center">
-                <span class="text-teal h2 d-block">4450</span>
-                <span>Happy Client</span>
+                <h2 class="text-teal TestimonialCount  d-block" style="">4450+</h2>
+                <p>Happy Client</p>
               </div>
               <div class="col-lg-3 text-center">
-                <span class="text-yellow h2 d-block">4398</span>
-                <span>Members</span>
+                <h2 class="text-yellow TestimonialCount d-block">4398+</h2>
+                <p>Members</p>
               </div>
               <div class="col-lg-3 text-center">
-                <span class="text-success h2 d-block">50+</span>
-                <span>Staffs</span>
+                <h2 class="text-success TestimonialCount d-block">50+</h2>
+                <p>Staffs</p>
               </div>
               <div class="col-lg-3 text-center">
-                <span class="text-danger h2 d-block">1500+</span>
-                <span>Our Followers</span>
+                <h2 class="text-danger TestimonialCount d-block">1500+</h2>
+                <p>Our Followers</p>
               </div>
             </div>
 

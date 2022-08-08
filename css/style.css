@@ -1,3 +1,41 @@
+@media (max-width:768px) {
+  .owl-carousel .owl-item img{
+   width:100px !important;
+  }
+  .TestimonialCount{
+    margin-bottom:0px !important;
+  }
+  .aboutUsMargin{
+    margin-top: 15px !important;
+  }
+  .teamPara{
+    margin-bottom: 0px !important;
+  }
+  .ourPackages{
+    margin-bottom: 10px !important;
+  }
+  .package{
+padding: 20px!important;
+  }
+  .contactInfo{
+    margin-bottom: 15px!important;
+  }
+  .contactHeading{
+    margin-bottom: -30px !important;
+    font-size: 20px !important;
+    line-height: 25px !important;
+
+  }
+  #collapse-01{
+    margin-bottom: 15px !important;
+  }
+  .playGroup{
+    bottom:-110px;
+    padding-top: 0rem !important;
+  }
+}
+
+
 /* Base */
 .text-cursive {
   font-family: "Indie Flower", cursive !important; }
@@ -785,12 +823,14 @@ h1, h2, h3, h4, h5,
   .site-section-cover,
   .site-section-cover .container > .row {
     height: calc(100vh - 196px);
-    min-height: 777px; }
+    /* min-height: 777px;  */
+  }
     @media (max-width: 991.98px) {
       .site-section-cover,
       .site-section-cover .container > .row {
         height: calc(70vh - 196px);
-        min-height: 777px; } }
+        /* min-height: 777px;  */
+      } }
   .site-section-cover.overlay {
     position: relative; }
     .site-section-cover.overlay:before {

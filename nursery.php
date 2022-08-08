@@ -23,12 +23,12 @@
     <link rel="stylesheet" href="css/style.css">
 
   </head>
-  <style>
+  <!-- <style>
     .site-section-cover, .site-section-cover .container > .row {
     height: calc(70vh - 196px);
     min-height: 500px;
 }
- </style>
+ </style> -->
 
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
         
@@ -48,12 +48,12 @@
      ?>
 
     
-       <!-- data-stellar-background-ratio="0.5" style="background-image: url('images/doll.jpg')" -->
-      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/doll.jpg')">
+       <!--  style="background-image: url('images/doll.jpg')" -->
+      <div class="site-section-cover overlay"  style="background-image: url('images/doll.jpg')">
         <div class="container">
           <div class="row align-items-center ">
 
-            <div class="col-md-5 mt-5 pt-5">
+            <div class="col-md-5 mt-5 playGroup" style="padding-top:10rem;">
               <h1 class="mb-3 font-weight-bold text-teal">Nursery</h1>
               <p><a href="index.php" class="text-white">Home</a> <span class="mx-2">/</span> <strong>Class</strong> <span class="mx-2">/</span> <strong>Nursery</strong></p>
             </div>
