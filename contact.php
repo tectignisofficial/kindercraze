@@ -179,13 +179,11 @@ include("config.php");
     </div> 
 
      
-        <div>
+        <div class="map">
         
             <span class="text-cursive h5 text-red d-block" style="text-align:center;">School on Google map</span>
             <h2 class="text-black" style="text-align:center;">Map</h2>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d236.71594153127643!2d73.02043860886435!3d18.961713403645668!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c37460a5030b%3A0x397ba6a0f423cf78!2sKinder%20Craze%20Schools!5e1!3m2!1sen!2sin!4v1659610588867!5m2!1sen!2sin" width="1680" height="500" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" style="
-    width: -webkit-fill-available;"></iframe>
-            
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15093.24590239017!2d73.0206993!3d18.9618467!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x397ba6a0f423cf78!2sKinder%20Craze%20Schools!5e0!3m2!1sen!2sin!4v1660022392652!5m2!1sen!2sin"width="1680" height="500" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" style="width: -webkit-fill-available;"></iframe>
          
         </div>
     

@@ -80,7 +80,7 @@
       </div>
     </div>
 
-    <div class="site-section bg-teal">
+    <div class="site-section bg-teal" style="padding: 5rem;">
       <div class="container">
         <div class="row justify-content-center text-center mb-5 section-2-title">
           <div class="col-md-6">
@@ -113,7 +113,7 @@
               <div class="post-entry-1-contents">
                 <span class="meta">Head of Partnerships</span>
                 <h2>Priya yadav</h2>
-                <p>works to make sure Kids is used by little learners everywhere.</p>
+                <p>works to make sure Kids is used by little learners & Outside work likes hiking, politics..</p>
               </div>
             </div>
           </div>
@@ -127,7 +127,7 @@
               <div class="post-entry-1-contents">
                 <span class="meta">Lead Animator</span>
                 <h2> Madhuri dere</h2>
-                <p>She enjoys using the arts to inspire learning and laughs.</p>
+                <p>She enjoys using the arts to inspire learning and laughs, she worked for studios.</p>
               </div>
             </div>
           </div>
@@ -180,7 +180,7 @@
     </div>
     
     
-    <div class="site-section bg-info">
+    <!-- <div class="site-section bg-info">
       <div class="container">
         <div class="row mb-5">
           <div class="col-12 text-center">
@@ -230,7 +230,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     
     <?php
     include("include/footer.php");
