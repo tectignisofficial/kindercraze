@@ -29,7 +29,6 @@ if(isset($_POST['send'])){
                   <ul class="list-unstyled">
                     <div class="top-social social-footer">
                       <a href="https://facebook.com/"><span class="icon-facebook text-teal"></span></a>
-                      <a href="https://twitter.com/"><span class="icon-twitter text-success"></span></a>
                       <a href="https://instagram.com/"><span class="icon-instagram text-pink"></span></a>
                     </div>
                   </ul>

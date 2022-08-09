@@ -50,7 +50,7 @@
      ?>
 
          
-<div class="site-section-cover overlay"  style="background-image: url('images/ezgif.com-gif-maker (33).jpg')">
+<div class="site-section-cover overlay"  style="background-image: url('images/free.jpg')">
         <div class="container">
           <div class="row align-items-center ">
 

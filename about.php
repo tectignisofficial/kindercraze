@@ -80,7 +80,7 @@
       </div>
     </div>
 
-    <div class="site-section bg-teal" style="padding: 5rem;">
+    <div class="site-section bg-teal">
       <div class="container">
         <div class="row justify-content-center text-center mb-5 section-2-title">
           <div class="col-md-6">

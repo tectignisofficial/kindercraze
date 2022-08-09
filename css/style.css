@@ -26,11 +26,11 @@ padding: 20px!important;
     line-height: 25px !important;
 
   }
-  #collapse-01{
-    margin-bottom: 15px !important;
+  .site-section {
+    padding-bottom: 45px!important;
   }
   .playGroup{
-    bottom:-110px;
+    bottom:-80px;
     padding-top: 0rem !important;
   }
   .map{
@@ -38,6 +38,9 @@ padding: 20px!important;
   }
   }
 
+  .site-section {
+    padding-bottom: 50px!important;
+  }
 
 /* Base */
 .text-cursive {
@@ -825,14 +828,16 @@ h1, h2, h3, h4, h5,
     z-index: 2; }
   .site-section-cover,
   .site-section-cover .container > .row {
-    height: calc(100vh - 196px);
+    /* height: calc(100vh - 196px); */
     /* min-height: 777px;  */
+    height: 75vh;
   }
-    @media (max-width: 991.98px) {
+    @media (max-width: 768px) {
       .site-section-cover,
       .site-section-cover .container > .row {
-        height: calc(70vh - 196px);
+        /* height: calc(70vh - 196px); */
         /* min-height: 777px;  */
+        height: 50vh;
       } }
   .site-section-cover.overlay {
     position: relative; }
