@@ -53,7 +53,7 @@ include("config.php");
       ?>    
 
     <div class="ftco-blocks-cover-1">
-      <div class="site-section-cover overlay"  style="background-image: url('images/ezgif.com-gif-maker.jpg')">
+      <div class="site-section-cover overlay"  style="background-image: url('images/ezgif.com-gif-maker.webp')">
         <div class="container">
           <div class="row align-items-center ">
 
@@ -139,7 +139,7 @@ include("config.php");
             <div class="owl-carousel nonloop-block-13">
                 <div class="testimonial-3 row">
                   <div class="col-lg-2 col-md-2 col-sm-12 justify-content-center align-item-center">
-                    <img src="images\ezgif.com-gif-maker (13).jpg" alt="Image" class="vcard img-fluid">
+                    <img src="images\ezgif.com-gif-maker (13).webp" alt="Image" class="vcard img-fluid">
                   </div>
                   <div class="text col-lg-10 col-md-10 col-sm-12">
                     <h3>Vedant Naidu</h3>
@@ -150,7 +150,7 @@ include("config.php");
 
                 <div class="testimonial-3 row">
                   <div class="col-lg-2 col-md-2 col-sm-12 justify-content-center align-item-center">
-                    <img src="images\ezgif.com-gif-maker (14).jpg" alt="Image" class="vcard img-fluid">
+                    <img src="images\ezgif.com-gif-maker (14).webp" alt="Image" class="vcard img-fluid">
                   </div>
                   <div class="text col-lg-10 col-md-10 col-sm-12">
                     <h3>Monika Gore</h3>
@@ -161,7 +161,7 @@ include("config.php");
 
                 <div class="testimonial-3 row">
                   <div class="col-lg-2 col-md-2 col-sm-12 justify-content-center align-item-center">
-                    <img src="images\ezgif.com-gif-maker (15).jpg" alt="Image" class="vcard img-fluid">
+                    <img src="images\ezgif.com-gif-maker (15).webp" alt="Image" class="vcard img-fluid">
                   </div>
                   <div class="text col-lg-10 col-md-10 col-sm-12">
                     <h3>Dipali Kale</h3>

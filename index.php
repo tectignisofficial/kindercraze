@@ -58,7 +58,7 @@
 <div class="ftco-blocks-cover-1">
        <!--  style="background-image: url('images/girl1.jpg')" -->
        <!-- data-stellar-background-ratio="0.5" -->
-      <div class="site-section-cover overlay"  style="background-image: url('images/ezgif.com-gif-maker (29).jpg')">
+      <div class="site-section-cover overlay"  style="background-image: url('images/ezgif.com-gif-maker_29_.webp')">
         <div class="container">
           <div class="row align-items-center ">
 
@@ -112,7 +112,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6 mb-5 mb-md-0">
-            <img src="images\ezgif.com-gif-maker (28).jpg" alt="Image" class="img-fluid">
+            <img src="images\ezgif.com-gif-maker_28_.webp" alt="Image" class="img-fluid">
           </div>
           <div class="col-md-5 ml-auto pl-md-5">
             <span class="text-cursive h5 text-red">About Us</span>
@@ -142,7 +142,7 @@
               <div class="owl-carousel nonloop-block-13">
                 <div class="testimonial-3 row">
                   <div class="col-lg-2 col-md-2 col-sm-12 justify-content-center align-item-center">
-                    <img src="images\ezgif.com-gif-maker (13).jpg" alt="Image" class="vcard img-fluid" style="margin-bottom: 10px;">
+                    <img src="images\ezgif.com-gif-maker (13).webp" alt="Image" class="vcard img-fluid" style="margin-bottom: 10px;">
                   </div>
                   <div class="text col-lg-10 col-md-10 col-sm-12">
                     <h3>Vedant Naidu</h3>
@@ -153,7 +153,7 @@
 
                 <div class="testimonial-3 row">
                   <div class="col-lg-2 col-md-2 col-sm-12 justify-content-center align-item-center">
-                    <img src="images\ezgif.com-gif-maker (14).jpg" alt="Image" class="vcard img-fluid" style="margin-bottom: 10px;">
+                    <img src="images\ezgif.com-gif-maker (14).webp" alt="Image" class="vcard img-fluid" style="margin-bottom: 10px;">
                   </div>
                   <div class="text col-lg-10 col-md-10 col-sm-12">
                     <h3>Monika Gore</h3>
@@ -164,7 +164,7 @@
 
                 <div class="testimonial-3 row">
                   <div class="col-lg-2 col-md-2 col-sm-12 justify-content-center align-item-center">
-                    <img src="images\ezgif.com-gif-maker (15).jpg" alt="Image" class="vcard img-fluid" style="margin-bottom: 10px;">
+                    <img src="images\ezgif.com-gif-maker (15).webp" alt="Image" class="vcard img-fluid" style="margin-bottom: 10px;">
                   </div>
                   <div class="text col-lg-10 col-md-10 col-sm-12">
                     <h3>Dipali Kale</h3>
