@@ -50,7 +50,7 @@
      ?>
 
          
-<div class="site-section-cover overlay"  style="background-image: url('images/dere.jpg')">
+<div class="site-section-cover overlay"  style="background-image: url('images/dere.webp')">
         <div class="container">
           <div class="row align-items-center ">
 

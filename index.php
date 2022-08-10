@@ -56,7 +56,7 @@
      ?>
 
 <div class="ftco-blocks-cover-1">
-       <!--  style="background-image: url('images/girl1.jpg')" -->
+       <!--  style="background-image: url('images/ezgif.com-gif-maker_29_.webp')" -->
        <!-- data-stellar-background-ratio="0.5" -->
       <div class="site-section-cover overlay"  style="background-image: url('images/ezgif.com-gif-maker_29_.webp')">
         <div class="container">

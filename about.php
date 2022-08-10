@@ -46,7 +46,7 @@
 
 
     <div class="ftco-blocks-cover-1">
-       <!--  style="background-image: url('images/Hero_22.jpg')" -->
+       <!--  style="background-image: url('images/Hero_22.webp')" -->
       <div class="site-section-cover overlay" style="background-image: url('images/Hero_22.webp')">
         <div class="container">
           <div class="row align-items-center ">
