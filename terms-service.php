@@ -49,7 +49,7 @@
 
 
     <div class="ftco-blocks-cover-1">
-      <div class="site-section-cover overlay"  style="background-image: url('images/ezgif.com-gif-maker (10).jpg')">
+      <div class="site-section-cover overlay"  style="background-image: url('images/ezgif.com-gif-maker (10).webp')">
         <div class="container">
           <div class="row align-items-center ">
 
